@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "project": "DEEP TOWN",
+  "release": "deep-town-0.4.3.1",
+  "windows": {
+    "version": "0.4.3.1",
+    "path": "DEEP-TOWN-Launcher.exe",
+    "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-0.4.3.1/DEEP-TOWN-Launcher.exe",
+    "bytes": 1523200,
+    "sha256": "df6a787fff183a61486930583139a5a2f7cb3ffb60b8e1345485f3959f6bea80"
+  },
+  "android": {
+    "versionCode": 5,
+    "versionName": "0.4.3-dev",
+    "package": "com.deeptown.launcher",
+    "path": "DEEP-TOWN-Game-dev.apk",
+    "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-0.4.3.1/DEEP-TOWN-Game-dev.apk",
+    "bytes": 44614936,
+    "sha256": "8cd1102dba7c1b0a8bd61a27b934a1dc4ed259c8634ed64768437efe3f1f362a"
+  }
+}

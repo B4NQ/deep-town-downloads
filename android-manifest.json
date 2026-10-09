@@ -1,0 +1,2081 @@
+{
+  "schemaVersion": 1,
+  "project": "DEEP TOWN",
+  "release": "0.4.3-community-1",
+  "platform": "android",
+  "runtimeCompatible": false,
+  "files": [
+    {
+      "path": "DEEP-NATURE-ATTRIBUTION.txt",
+      "bytes": 1427,
+      "sha256": "f47f95963c3cb10da617b54b1f53aa01a4110a1606de5bb8d6da06eda3ae1156",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/f47f95963c3cb10da617b54b1f53aa01a4110a1606de5bb8d6da06eda3ae1156.bin"
+    },
+    {
+      "path": "GTASAMP10.b",
+      "bytes": 195000,
+      "sha256": "780a605cf8d7311f9d9c4cea059bc205ac6d54151007d4ff91ed053b5102fbe2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/780a605cf8d7311f9d9c4cea059bc205ac6d54151007d4ff91ed053b5102fbe2.bin"
+    },
+    {
+      "path": "SAMP/NEWTHINGS.ide",
+      "bytes": 41867,
+      "sha256": "06c6c516ab7245a770ee36d059bb46be10c825fc5b116024588320b37a20e05f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/06c6c516ab7245a770ee36d059bb46be10c825fc5b116024588320b37a20e05f.bin"
+    },
+    {
+      "path": "SAMP/SAMP.ide",
+      "bytes": 89347,
+      "sha256": "dd66aa822943526dffe0f80af88547615672c9bb6e9f3fcfde6d6f8b860f93f5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/dd66aa822943526dffe0f80af88547615672c9bb6e9f3fcfde6d6f8b860f93f5.bin"
+    },
+    {
+      "path": "SAMP/fonts/arial.ttf",
+      "bytes": 91696,
+      "sha256": "5499693badcf1ee02ea353676cfd352c20676c1b7fc59a83ecc1e0c48a0cde22",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5499693badcf1ee02ea353676cfd352c20676c1b7fc59a83ecc1e0c48a0cde22.bin"
+    },
+    {
+      "path": "SAMP/fonts/arial_bold.ttf",
+      "bytes": 91696,
+      "sha256": "5499693badcf1ee02ea353676cfd352c20676c1b7fc59a83ecc1e0c48a0cde22",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5499693badcf1ee02ea353676cfd352c20676c1b7fc59a83ecc1e0c48a0cde22.bin"
+    },
+    {
+      "path": "SAMP/fonts/georgia.ttf",
+      "bytes": 219712,
+      "sha256": "38dffcaf1fac89492f7c56c600a14daf36ae42f7c21985cd4134ae113124a58f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/38dffcaf1fac89492f7c56c600a14daf36ae42f7c21985cd4134ae113124a58f.bin"
+    },
+    {
+      "path": "SAMP/fonts/gtaweap3.ttf",
+      "bytes": 104004,
+      "sha256": "b7d7a38d4f6b729e961984eaec1248c5bdcf925d3d869a7e944e246e777a5271",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b7d7a38d4f6b729e961984eaec1248c5bdcf925d3d869a7e944e246e777a5271.bin"
+    },
+    {
+      "path": "SAMP/fonts/impact.ttf",
+      "bytes": 206784,
+      "sha256": "d8bbdb72e3f930157824b2e59677d3a912d4512c14a948e6656a2e3fb0c935ad",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d8bbdb72e3f930157824b2e59677d3a912d4512c14a948e6656a2e3fb0c935ad.bin"
+    },
+    {
+      "path": "SAMP/fonts/quartz_ms.ttf",
+      "bytes": 51032,
+      "sha256": "6ac1992993774705ff4983bd306c8d5f9ca3168ad997226abdfb07c3e23de6ea",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/6ac1992993774705ff4983bd306c8d5f9ca3168ad997226abdfb07c3e23de6ea.bin"
+    },
+    {
+      "path": "SAMP/fonts/sampaux3.ttf",
+      "bytes": 7376,
+      "sha256": "c01e5bb15f341bdc24e3f1bc3b21ce2155d53b102eb408da23fbbdcc1f02ec34",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c01e5bb15f341bdc24e3f1bc3b21ce2155d53b102eb408da23fbbdcc1f02ec34.bin"
+    },
+    {
+      "path": "SAMP/fonts/segoe_print.ttf",
+      "bytes": 172448,
+      "sha256": "4061e7eb9833327b08b56aa354455a4f5263e0e2ebd57ea1c9071a96d90fad35",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/4061e7eb9833327b08b56aa354455a4f5263e0e2ebd57ea1c9071a96d90fad35.bin"
+    },
+    {
+      "path": "SAMP/fonts/segoe_script.ttf",
+      "bytes": 620204,
+      "sha256": "8f6328619340426b2c985f6fd305bb64d164b20b20a5b493a21533761bd5d631",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/8f6328619340426b2c985f6fd305bb64d164b20b20a5b493a21533761bd5d631.bin"
+    },
+    {
+      "path": "SAMP/fonts/tahoma.ttf",
+      "bytes": 939280,
+      "sha256": "b890858df485549d20fcb0a2c519dffe9c5c155d16b55e0b9252d6e66db555e5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b890858df485549d20fcb0a2c519dffe9c5c155d16b55e0b9252d6e66db555e5.bin"
+    },
+    {
+      "path": "SAMP/gta.dat",
+      "bytes": 3858,
+      "sha256": "b7984d54fee4cd4b67a6030c56146108ec52aebe4f7a6b6286dfdd6ab0672708",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b7984d54fee4cd4b67a6030c56146108ec52aebe4f7a6b6286dfdd6ab0672708.bin"
+    },
+    {
+      "path": "SAMP/handling.cfg",
+      "bytes": 65278,
+      "sha256": "dc6bf47e507cd816c00be7f05e75e2a824b87f46e115577a21b70acc2232cbed",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/dc6bf47e507cd816c00be7f05e75e2a824b87f46e115577a21b70acc2232cbed.bin"
+    },
+    {
+      "path": "SAMP/launcher_config.json",
+      "bytes": 59,
+      "sha256": "2b366167ef4a9df175799cf7bbaf37dd40cc65aa90350f7dcfd6693e91124864",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/2b366167ef4a9df175799cf7bbaf37dd40cc65aa90350f7dcfd6693e91124864.bin"
+    },
+    {
+      "path": "SAMP/main.scm",
+      "bytes": 103876,
+      "sha256": "2d76209e77d27a8f6dcc754a1e9c21016c3a7fd7a1be11bfc654c083ec94af3b",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2d76209e77d27a8f6dcc754a1e9c21016c3a7fd7a1be11bfc654c083ec94af3b.bin"
+    },
+    {
+      "path": "SAMP/peds.ide",
+      "bytes": 36415,
+      "sha256": "ca68366d81decc17a57d02e23b63664a503c75014a633aa5566a780288f78242",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/ca68366d81decc17a57d02e23b63664a503c75014a633aa5566a780288f78242.bin"
+    },
+    {
+      "path": "SAMP/radarBlipCustom.dat",
+      "bytes": 1295,
+      "sha256": "7aa6c6cec0934d1ff53b7b8d03565124182034e772dd0802a4eeaed28589d287",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/7aa6c6cec0934d1ff53b7b8d03565124182034e772dd0802a4eeaed28589d287.bin"
+    },
+    {
+      "path": "SAMP/sampvoice.txt",
+      "bytes": 1358,
+      "sha256": "747d3d5d00725d88552963df3383e958fac3f8b200fbb299cee80a86be86b501",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/747d3d5d00725d88552963df3383e958fac3f8b200fbb299cee80a86be86b501.bin"
+    },
+    {
+      "path": "SAMP/sampvoice/svconfig.ini",
+      "bytes": 138,
+      "sha256": "13534a95a84f2a8eb6696fa29a28a6304fa43eb9c9b423e680fa30b02b19d28f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/13534a95a84f2a8eb6696fa29a28a6304fa43eb9c9b423e680fa30b02b19d28f.bin"
+    },
+    {
+      "path": "SAMP/script.img",
+      "bytes": 194560,
+      "sha256": "845b2e526447af09d022e4298f818b0fa90d97425ab67db747045b0c4d47fc9b",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/845b2e526447af09d022e4298f818b0fa90d97425ab67db747045b0c4d47fc9b.bin"
+    },
+    {
+      "path": "SAMP/settings.default.ini",
+      "bytes": 1974,
+      "sha256": "28c496589f47a9ec466d73231845b7695e4a0bf3477145cffc56eed4cea2e982",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/28c496589f47a9ec466d73231845b7695e4a0bf3477145cffc56eed4cea2e982.bin"
+    },
+    {
+      "path": "SAMP/tracks2.dat",
+      "bytes": 3,
+      "sha256": "13bf7b3039c63bf5a50491fa3cfd8eb4e699d1ba1436315aef9cbe5711530354",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/13bf7b3039c63bf5a50491fa3cfd8eb4e699d1ba1436315aef9cbe5711530354.bin"
+    },
+    {
+      "path": "SAMP/tracks4.dat",
+      "bytes": 3,
+      "sha256": "13bf7b3039c63bf5a50491fa3cfd8eb4e699d1ba1436315aef9cbe5711530354",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/13bf7b3039c63bf5a50491fa3cfd8eb4e699d1ba1436315aef9cbe5711530354.bin"
+    },
+    {
+      "path": "SAMP/vehicleAudioSettings.cfg",
+      "bytes": 22642,
+      "sha256": "c0efbb30d5680e25a16cf986ce6d91c8e33968d99d4b6c883e5a0020f370d63a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c0efbb30d5680e25a16cf986ce6d91c8e33968d99d4b6c883e5a0020f370d63a.bin"
+    },
+    {
+      "path": "SAMP/vehicles.ide",
+      "bytes": 21191,
+      "sha256": "7f40a67e66792aa5f5e19313ec76682cbaeba9c2218f59820f67b8a9200443e0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/7f40a67e66792aa5f5e19313ec76682cbaeba9c2218f59820f67b8a9200443e0.bin"
+    },
+    {
+      "path": "SAMP/water.dat",
+      "bytes": 70099,
+      "sha256": "1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf.bin"
+    },
+    {
+      "path": "SAMP/water1.dat",
+      "bytes": 60063,
+      "sha256": "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68.bin"
+    },
+    {
+      "path": "SAMP/weapon.dat",
+      "bytes": 11602,
+      "sha256": "3af1d40aa8efa67223a8160fadb0749dc9e920dbc94579c55f9f1826a47b27ce",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3af1d40aa8efa67223a8160fadb0749dc9e920dbc94579c55f9f1826a47b27ce.bin"
+    },
+    {
+      "path": "anim/anim.img",
+      "bytes": 10942464,
+      "sha256": "bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/bdde1f918fb12e4b4b9e46927f8a0281b6d80b85551b716e74cca68c6c9138ae.bin"
+    },
+    {
+      "path": "anim/cuts.img",
+      "bytes": 16029696,
+      "sha256": "2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c.bin"
+    },
+    {
+      "path": "anim/ped.ifp",
+      "bytes": 2724636,
+      "sha256": "fb9132fbb33c87d4e501d7a2687833d49deaec59831a463419bb0f29d718ea19",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/fb9132fbb33c87d4e501d7a2687833d49deaec59831a463419bb0f29d718ea19.bin"
+    },
+    {
+      "path": "audio/CONFIG/AudioEventHistory.txt",
+      "bytes": 114056,
+      "sha256": "bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/bdc80c1cb520ae10c7952af4d402e0a3802901eb724f44e9de6007fc8b810dc0.bin"
+    },
+    {
+      "path": "audio/CONFIG/BankLkup.dat",
+      "bytes": 8520,
+      "sha256": "b89a66ddef4e5da74c4c13abb38a9aa7985397bee45b00e080da89f07a1eee50",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b89a66ddef4e5da74c4c13abb38a9aa7985397bee45b00e080da89f07a1eee50.bin"
+    },
+    {
+      "path": "audio/CONFIG/BankSlot.dat",
+      "bytes": 216902,
+      "sha256": "aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/aa7035f9c914cd3b73f9535b2794a10febeebfbcdb166d340d875093eab71e72.bin"
+    },
+    {
+      "path": "audio/CONFIG/EventVol.dat",
+      "bytes": 45402,
+      "sha256": "ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/ad8bab3deff68a93787566dab34b33d37876ba9e15308386e2166837024059a8.bin"
+    },
+    {
+      "path": "audio/CONFIG/PakFiles.dat",
+      "bytes": 468,
+      "sha256": "36bc8f4814d4ef4dc3b7c43ae5c26f0de1feeda1bc15cdf2250456d2927bc57c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/36bc8f4814d4ef4dc3b7c43ae5c26f0de1feeda1bc15cdf2250456d2927bc57c.bin"
+    },
+    {
+      "path": "audio/CONFIG/SOUNDINF.DAT",
+      "bytes": 746760,
+      "sha256": "639b880be8c20dd35b2a8702f2ec466946cf8ed44b8f3fd0a74fb8342af16d99",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/639b880be8c20dd35b2a8702f2ec466946cf8ed44b8f3fd0a74fb8342af16d99.bin"
+    },
+    {
+      "path": "audio/CONFIG/StrmPaks.dat",
+      "bytes": 272,
+      "sha256": "03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/03e32ee0efb3505d0cea13952370d24a417799b085946087c851060d4120dea0.bin"
+    },
+    {
+      "path": "audio/CONFIG/TRKHEAD.DAT",
+      "bytes": 15506696,
+      "sha256": "6474abc1c02ed8647caca1c107e0d067cce2715021f9420c009c0f763ad1c0e4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/6474abc1c02ed8647caca1c107e0d067cce2715021f9420c009c0f763ad1c0e4.bin"
+    },
+    {
+      "path": "audio/CONFIG/TrakLkup.dat",
+      "bytes": 23064,
+      "sha256": "adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/adf22fcdfe798c7ad59f1b8fbf6a71574fbf06f1ca39a074ad2b3163c341c0d9.bin"
+    },
+    {
+      "path": "audio/SFX/FEET.osw",
+      "bytes": 138118,
+      "sha256": "d43473f63e8379f65be9eb9f43ca3218bfd7cc1769041f0a417b25da3f332336",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d43473f63e8379f65be9eb9f43ca3218bfd7cc1769041f0a417b25da3f332336.bin"
+    },
+    {
+      "path": "audio/SFX/FEET.osw.idx",
+      "bytes": 1220,
+      "sha256": "13debe852688a01ff4e2f789f939747922e19ae59c59287b4f601095669e20d6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/13debe852688a01ff4e2f789f939747922e19ae59c59287b4f601095669e20d6.bin"
+    },
+    {
+      "path": "audio/SFX/GENRL.osw",
+      "bytes": 9362373,
+      "sha256": "3d469654805f1c457bdcdd8025f4e8840b3d6674503be53709484d8680544328",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3d469654805f1c457bdcdd8025f4e8840b3d6674503be53709484d8680544328.bin"
+    },
+    {
+      "path": "audio/SFX/GENRL.osw.idx",
+      "bytes": 20868,
+      "sha256": "dbdf66a159e3a4d855cbc1ca56df5e575025cb6b928ff04448c37f2f70df2c9a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/dbdf66a159e3a4d855cbc1ca56df5e575025cb6b928ff04448c37f2f70df2c9a.bin"
+    },
+    {
+      "path": "audio/SFX/PAIN_A.osw",
+      "bytes": 3247335,
+      "sha256": "b6e917e21c007e394b76b0d1f7121b5f1c6f397073de3554b8b56599104816e1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b6e917e21c007e394b76b0d1f7121b5f1c6f397073de3554b8b56599104816e1.bin"
+    },
+    {
+      "path": "audio/SFX/PAIN_A.osw.idx",
+      "bytes": 12836,
+      "sha256": "6f64edb08e2a7e0895a70a2467d6e848e2cffcb189adaf2d74a014189060ea43",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/6f64edb08e2a7e0895a70a2467d6e848e2cffcb189adaf2d74a014189060ea43.bin"
+    },
+    {
+      "path": "audio/SFX/SCRIPT.osw",
+      "bytes": 99239609,
+      "sha256": "250fa728c4504a356bf90d070704431bf7b128ba7dfc3ea8cb8d9ee1f3202262",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/250fa728c4504a356bf90d070704431bf7b128ba7dfc3ea8cb8d9ee1f3202262.bin"
+    },
+    {
+      "path": "audio/STREAMS/AA.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/AA.osw.idx",
+      "bytes": 1522,
+      "sha256": "0971a591a39cc7aa2ee6071e1a87b3571e708fc0446ec083068a075c9f396466",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/0971a591a39cc7aa2ee6071e1a87b3571e708fc0446ec083068a075c9f396466.bin"
+    },
+    {
+      "path": "audio/STREAMS/ADVERTS.osw",
+      "bytes": 3516982,
+      "sha256": "ca963094f2b6d8600e3a7ad5c1cb82794c739615f9dfd0e1518966406a5d8aab",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/ca963094f2b6d8600e3a7ad5c1cb82794c739615f9dfd0e1518966406a5d8aab.bin"
+    },
+    {
+      "path": "audio/STREAMS/ADVERTS.osw.idx",
+      "bytes": 1591,
+      "sha256": "d2cdf4c804cef5f74f9548b8bb2cf5cd72a7b86665d8b2e493882e50bb3cb998",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d2cdf4c804cef5f74f9548b8bb2cf5cd72a7b86665d8b2e493882e50bb3cb998.bin"
+    },
+    {
+      "path": "audio/STREAMS/AMBIENCE.osw",
+      "bytes": 22719112,
+      "sha256": "fbe8d0c10cf5af252496e2a5729efae6e0afe37004d5905d872cf6dcc83fe272",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/fbe8d0c10cf5af252496e2a5729efae6e0afe37004d5905d872cf6dcc83fe272.bin"
+    },
+    {
+      "path": "audio/STREAMS/AMBIENCE.osw.idx",
+      "bytes": 924,
+      "sha256": "d763e98e94b87349f748e02943a02eff06b8daac448b5da6f09b0f09db9c4e83",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d763e98e94b87349f748e02943a02eff06b8daac448b5da6f09b0f09db9c4e83.bin"
+    },
+    {
+      "path": "audio/STREAMS/BEATS.osw",
+      "bytes": 9733284,
+      "sha256": "27b0e6ff721a872ad719fab7def50247cb0d04b9bb108ec0aca334491b64b053",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/27b0e6ff721a872ad719fab7def50247cb0d04b9bb108ec0aca334491b64b053.bin"
+    },
+    {
+      "path": "audio/STREAMS/BEATS.osw.idx",
+      "bytes": 234,
+      "sha256": "ceba406f039f13e840d2b9b43c599905dfbe126f10bb5c29d9452e4883cca7b8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/ceba406f039f13e840d2b9b43c599905dfbe126f10bb5c29d9452e4883cca7b8.bin"
+    },
+    {
+      "path": "audio/STREAMS/CH.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/CH.osw.idx",
+      "bytes": 2994,
+      "sha256": "9dcf1445dcd6145aeab790d5eeff737b7f085dde07e42091d6bf523b197e123c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/9dcf1445dcd6145aeab790d5eeff737b7f085dde07e42091d6bf523b197e123c.bin"
+    },
+    {
+      "path": "audio/STREAMS/CO.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/CO.osw.idx",
+      "bytes": 3569,
+      "sha256": "c057f5a0eb6df6dec863e25561995cfb69afd1dfddd92c608f720254ca60a4c8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c057f5a0eb6df6dec863e25561995cfb69afd1dfddd92c608f720254ca60a4c8.bin"
+    },
+    {
+      "path": "audio/STREAMS/CR.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/CR.osw.idx",
+      "bytes": 3592,
+      "sha256": "b6a7ef38f6aee88eb60c2d0500be46f7e8cac38b72c738071404640854f98485",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b6a7ef38f6aee88eb60c2d0500be46f7e8cac38b72c738071404640854f98485.bin"
+    },
+    {
+      "path": "audio/STREAMS/CUTSCENE.osw",
+      "bytes": 301175,
+      "sha256": "0fcbd6cb6aea4f51eddb8b9213ccd5cc9445422d4d4eeedb9c457b2bdc1d13a1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/0fcbd6cb6aea4f51eddb8b9213ccd5cc9445422d4d4eeedb9c457b2bdc1d13a1.bin"
+    },
+    {
+      "path": "audio/STREAMS/CUTSCENE.osw.idx",
+      "bytes": 3247,
+      "sha256": "e7baeb71062f2e1c90e1f7c010d5106b616e59efb876b7524a31f6ca740b75ca",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/e7baeb71062f2e1c90e1f7c010d5106b616e59efb876b7524a31f6ca740b75ca.bin"
+    },
+    {
+      "path": "audio/STREAMS/DS.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/DS.osw.idx",
+      "bytes": 4121,
+      "sha256": "abe5af8acca600fc6ec041e35ccd1a3735ddaf78906667dab39a5542d12dee41",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/abe5af8acca600fc6ec041e35ccd1a3735ddaf78906667dab39a5542d12dee41.bin"
+    },
+    {
+      "path": "audio/STREAMS/HC.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/HC.osw.idx",
+      "bytes": 2649,
+      "sha256": "baf0fc96a4818b1499969853fb144c7a4ef2f1dfe171a7bd2559dffc2c7c15a9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/baf0fc96a4818b1499969853fb144c7a4ef2f1dfe171a7bd2559dffc2c7c15a9.bin"
+    },
+    {
+      "path": "audio/STREAMS/MH.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/MH.osw.idx",
+      "bytes": 3500,
+      "sha256": "6796adf0a3d204e85951924ba5792297acf8f67f2ce03cb66d3303b230b0d3ad",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/6796adf0a3d204e85951924ba5792297acf8f67f2ce03cb66d3303b230b0d3ad.bin"
+    },
+    {
+      "path": "audio/STREAMS/MR.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/MR.osw.idx",
+      "bytes": 3385,
+      "sha256": "7c789c2faaf83ec6ae0fb281955926103a085cba02c349291e36d8dc1d6fe046",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/7c789c2faaf83ec6ae0fb281955926103a085cba02c349291e36d8dc1d6fe046.bin"
+    },
+    {
+      "path": "audio/STREAMS/NJ.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/NJ.osw.idx",
+      "bytes": 2994,
+      "sha256": "980e1a5145799c5bad42635c5b934562e0acb7e1146b79071734eaed48b711f0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/980e1a5145799c5bad42635c5b934562e0acb7e1146b79071734eaed48b711f0.bin"
+    },
+    {
+      "path": "audio/STREAMS/RE.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/RE.osw.idx",
+      "bytes": 3707,
+      "sha256": "292c0a3fb991236d2c951eb40c93136ea61641c1cab3f72a810eaf0a39cd233b",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/292c0a3fb991236d2c951eb40c93136ea61641c1cab3f72a810eaf0a39cd233b.bin"
+    },
+    {
+      "path": "audio/STREAMS/RG.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/RG.osw.idx",
+      "bytes": 3914,
+      "sha256": "9d3e8370bb96c11927ad4785af68ebbae7bbee64ef213852655a0430424c1314",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/9d3e8370bb96c11927ad4785af68ebbae7bbee64ef213852655a0430424c1314.bin"
+    },
+    {
+      "path": "audio/STREAMS/TK.osw",
+      "bytes": 15462,
+      "sha256": "b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9ef847a3745a45819fd5b56a72e15909e2dacadf36f40dfe1f494c6deeeb5d2.bin"
+    },
+    {
+      "path": "audio/STREAMS/TK.osw.idx",
+      "bytes": 2327,
+      "sha256": "db3f6081c7d8c605e34b3daa7f7033f0efb335a0fc478944a7ba1b599c545926",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/db3f6081c7d8c605e34b3daa7f7033f0efb335a0fc478944a7ba1b599c545926.bin"
+    },
+    {
+      "path": "data/360Default1280x720.cfg",
+      "bytes": 10898,
+      "sha256": "b26d40d280bf93dc685668b099c303b2a0700dd9f0460307d5643cbad70c6ca6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b26d40d280bf93dc685668b099c303b2a0700dd9f0460307d5643cbad70c6ca6.bin"
+    },
+    {
+      "path": "data/360Default960x720.cfg",
+      "bytes": 10888,
+      "sha256": "142128a657affbbe4dabbc2c992c58890cb8fa5157e72d95fbbe50c3194011fd",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/142128a657affbbe4dabbc2c992c58890cb8fa5157e72d95fbbe50c3194011fd.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/Cop.ped",
+      "bytes": 4908,
+      "sha256": "d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/d91e13fb6aaf0be786e32fd37a68cf0425cef9fbc23742222d31d1ff312a8150.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/Fireman.ped",
+      "bytes": 4435,
+      "sha256": "cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/cb9a75b87d6960e51a12a4d896f099e5ed1576d76d7946a0570f10e98872de54.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/GangMbr.ped",
+      "bytes": 6194,
+      "sha256": "c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/c2653aba07c5c04017b44797cc4f1d2899da9e4d36ac6420ca22b5600172f57d.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/Indoors.ped",
+      "bytes": 2809,
+      "sha256": "53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/53dc5665a42bd47d9dc8be8d7a2440b5722b10940186c000235213cb8c1d8fe1.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/MISSION.grp",
+      "bytes": 2758,
+      "sha256": "1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/1a97a3018d9a852b699beb1904af4ae8ed1b7aab5fe1742e59917fb29eda2af6.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM.grp",
+      "bytes": 4623,
+      "sha256": "d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d4848b45f3fa6b8c9fb15b4bee0c7ee8b42a1a8ccc9e6bdfa01f1d5ab0522265.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM.ped",
+      "bytes": 4142,
+      "sha256": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM2.grp",
+      "bytes": 4623,
+      "sha256": "4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/4a3f855271adb3dc41a91a7595281fd534d64768596195037ccd1cd01318352a.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/R_Norm.ped",
+      "bytes": 6450,
+      "sha256": "33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/33175de3da4445186551bf2aeadacd4f706879cbbe47411c73fd228d41fdb30c.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/R_Tough.ped",
+      "bytes": 6378,
+      "sha256": "fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/fd8d95ea1b3915983380eb48efa124883fecd5069157c8673d0a111e7ecdb1c9.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/R_Weak.ped",
+      "bytes": 6289,
+      "sha256": "41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/41f15594c0c639475f904b3ee09474f8ceac9f504345f421cf6f740f8287e60d.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/m_empty.ped",
+      "bytes": 982,
+      "sha256": "df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/df0e18f0148152c98132381927b617140fc6e8967a68085cc630cbe734e0c9b5.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/m_norm.ped",
+      "bytes": 4142,
+      "sha256": "fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/fa99612c55e6b8ffc76170fc56567f57a7153f47173c1b2a065d4ef4b8299bfe.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/m_plyr.ped",
+      "bytes": 2000,
+      "sha256": "261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/261b87d08b49ce72c3f9d02201bae15889f2a9ff65798e704fcf53098fbd304e.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/m_steal.ped",
+      "bytes": 3663,
+      "sha256": "635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/635372cb7c36134f4bfdd1ae343763ad3d814db7b19fef7eb34a2ca48ed48ec4.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/m_tough.ped",
+      "bytes": 3980,
+      "sha256": "99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/99129a3281653e428cea13b6fb626d21bed6381849f92e11b5638f1f3c23687d.bin"
+    },
+    {
+      "path": "data/Decision/Allowed/m_weak.ped",
+      "bytes": 4062,
+      "sha256": "5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/5e97f56b79986532d76d401a1929c1c3879bcae6377face62f0ed9976b28a6d6.bin"
+    },
+    {
+      "path": "data/Decision/PedEvent.txt",
+      "bytes": 1298,
+      "sha256": "c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c61a077262a419b15a14961341144a96795f45d49014deb6fa98aa0e180400be.bin"
+    },
+    {
+      "path": "data/ShopUVs.dat",
+      "bytes": 30509,
+      "sha256": "4b74b27a88807e5fe2ac9ec7d21dbd1198d1f3447db2d1bc745bf7a82d487183",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4b74b27a88807e5fe2ac9ec7d21dbd1198d1f3447db2d1bc745bf7a82d487183.bin"
+    },
+    {
+      "path": "data/TouchDefaultPhone3x2.cfg",
+      "bytes": 10912,
+      "sha256": "59704c4caa1fe09942708ac9ae1e35c72446664e3e817c602b79ae3ca754b8df",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/59704c4caa1fe09942708ac9ae1e35c72446664e3e817c602b79ae3ca754b8df.bin"
+    },
+    {
+      "path": "data/TouchDefaultPhoneWidescreen.cfg",
+      "bytes": 10924,
+      "sha256": "8b5f1208d4a178c631588797d370dda8a43095d09360987cf5b5d90b4d324f03",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/8b5f1208d4a178c631588797d370dda8a43095d09360987cf5b5d90b4d324f03.bin"
+    },
+    {
+      "path": "data/TouchDefaultTablet4x3.cfg",
+      "bytes": 10926,
+      "sha256": "1e3fd9c4bd4ea8093e8fae76243a1abf32c694be481139c32e133666c90acb29",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/1e3fd9c4bd4ea8093e8fae76243a1abf32c694be481139c32e133666c90acb29.bin"
+    },
+    {
+      "path": "data/TouchDefaultTabletWidescreen.cfg",
+      "bytes": 10923,
+      "sha256": "c728569e368244dc777764cfcc689aeff81fdbd2b1e1d2527f9ec49ee8d051bf",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/c728569e368244dc777764cfcc689aeff81fdbd2b1e1d2527f9ec49ee8d051bf.bin"
+    },
+    {
+      "path": "data/animgrp.dat",
+      "bytes": 3096,
+      "sha256": "012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/012b10d891840c48e0f282fdef7700673a12fe6c568a7ac9127c21095808aef8.bin"
+    },
+    {
+      "path": "data/ar_stats.dat",
+      "bytes": 3593,
+      "sha256": "3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/3f8a184d088dc25e166ff0bb067286b5dcac2398de21d3bb4e00b43956d31d25.bin"
+    },
+    {
+      "path": "data/carcols.dat",
+      "bytes": 15361,
+      "sha256": "4d43183de25aeb1b02ceb370883ac4ea8bbd3fc3fb9167418f8fbfd005ea7219",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/4d43183de25aeb1b02ceb370883ac4ea8bbd3fc3fb9167418f8fbfd005ea7219.bin"
+    },
+    {
+      "path": "data/cargrp.dat",
+      "bytes": 3909,
+      "sha256": "196dc47c03225969aa95a0ef1e2a53bdbcf197223905a495fb96bf9ca08e8d01",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/196dc47c03225969aa95a0ef1e2a53bdbcf197223905a495fb96bf9ca08e8d01.bin"
+    },
+    {
+      "path": "data/carmods.dat",
+      "bytes": 8763,
+      "sha256": "674cd3e5e0f5393bbe5323b053efb57e9b3c67d37694a911ff065d7a7f1967f2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/674cd3e5e0f5393bbe5323b053efb57e9b3c67d37694a911ff065d7a7f1967f2.bin"
+    },
+    {
+      "path": "data/clothes.dat",
+      "bytes": 5317,
+      "sha256": "5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/5fff15c81a5f8c32f4d3dff22ad6748c9b8c0a45af7b9f67e22fb2b9ae05c593.bin"
+    },
+    {
+      "path": "data/colorcycle.dat",
+      "bytes": 13612,
+      "sha256": "d04a9eb1cfa3ae2124fafe5993a2b20438b73124145e47c5981ef73e613babf1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/d04a9eb1cfa3ae2124fafe5993a2b20438b73124145e47c5981ef73e613babf1.bin"
+    },
+    {
+      "path": "data/default.dat",
+      "bytes": 577,
+      "sha256": "3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3abbdd89a94c73c93efa95b1657e339ba25f51e84787ff63e5b5c443951fecab.bin"
+    },
+    {
+      "path": "data/default.ide",
+      "bytes": 4679,
+      "sha256": "3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3aea4d74891f77602e1e7e32e3dfd6716fcccf257e87f7ab43c57f64339ff8c2.bin"
+    },
+    {
+      "path": "data/fonts.dat",
+      "bytes": 3576,
+      "sha256": "173185446d11a5490ecb80ba67d37995eaf11ab8a3f465b6bfd1fcdbc1aeae69",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/173185446d11a5490ecb80ba67d37995eaf11ab8a3f465b6bfd1fcdbc1aeae69.bin"
+    },
+    {
+      "path": "data/furnitur.dat",
+      "bytes": 16480,
+      "sha256": "d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a.bin"
+    },
+    {
+      "path": "data/gridref.dat",
+      "bytes": 1498,
+      "sha256": "62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/62108eed8a03f4e61f16f83f750e54cbb894660a5c2ad104a086919dfbe13188.bin"
+    },
+    {
+      "path": "data/gta.dat",
+      "bytes": 3776,
+      "sha256": "391881940700b84d9d4a263374a9543e04ec816f3f76f54fdbcabe533f094c01",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/391881940700b84d9d4a263374a9543e04ec816f3f76f54fdbcabe533f094c01.bin"
+    },
+    {
+      "path": "data/handling.cfg",
+      "bytes": 64532,
+      "sha256": "1309562b6cc6fb0c9983190383e62ded03d033f42eb1bf8f6b858cb93073e22f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/1309562b6cc6fb0c9983190383e62ded03d033f42eb1bf8f6b858cb93073e22f.bin"
+    },
+    {
+      "path": "data/info.zon",
+      "bytes": 28139,
+      "sha256": "9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/9396cf9b7bec5a797fa4614ee7ab578d910ed5cdd9d475adfb35801612ec8058.bin"
+    },
+    {
+      "path": "data/map.zon",
+      "bytes": 436,
+      "sha256": "4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/4f78672e3ee70a1f5e09cd9acebe23f0597a39e275bf493a1f1c29ccfd268775.bin"
+    },
+    {
+      "path": "data/maps/Audiozon.ipl",
+      "bytes": 10802,
+      "sha256": "43c552f2da0491b476778edaa6f233076fa6c35cf31773d30e9033b450c8d421",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/43c552f2da0491b476778edaa6f233076fa6c35cf31773d30e9033b450c8d421.bin"
+    },
+    {
+      "path": "data/maps/LA/LAe.ide",
+      "bytes": 12249,
+      "sha256": "cc114af79b56e2cce26d61d5d8c68211c057d0dd7a61b32cd0ecc582853b22eb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/cc114af79b56e2cce26d61d5d8c68211c057d0dd7a61b32cd0ecc582853b22eb.bin"
+    },
+    {
+      "path": "data/maps/LA/LAe.ipl",
+      "bytes": 27328,
+      "sha256": "356c7c7812ae16de67ea816177e802500fc93024cda877d2d20dbd1a9f0f9596",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/356c7c7812ae16de67ea816177e802500fc93024cda877d2d20dbd1a9f0f9596.bin"
+    },
+    {
+      "path": "data/maps/LA/LAe2.ide",
+      "bytes": 21907,
+      "sha256": "157059c2a0503a815ff98418be5fdb1e67f156986033ea538c69652613b286d5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/157059c2a0503a815ff98418be5fdb1e67f156986033ea538c69652613b286d5.bin"
+    },
+    {
+      "path": "data/maps/LA/LAe2.ipl",
+      "bytes": 33651,
+      "sha256": "0e0b143e3fd217b41dc79cb390627eba2e8d508054d10bc14d38b499a1ddd818",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0e0b143e3fd217b41dc79cb390627eba2e8d508054d10bc14d38b499a1ddd818.bin"
+    },
+    {
+      "path": "data/maps/LA/LAhills.ide",
+      "bytes": 10601,
+      "sha256": "2cb585a103cd40701c742beec319055b722f10f3f3558e60438b5325e490f2dd",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/2cb585a103cd40701c742beec319055b722f10f3f3558e60438b5325e490f2dd.bin"
+    },
+    {
+      "path": "data/maps/LA/LAhills.ipl",
+      "bytes": 34506,
+      "sha256": "eadb547f99169093c1ba2596ec79a4574d178f1832066391cb37d08a04e831fb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/eadb547f99169093c1ba2596ec79a4574d178f1832066391cb37d08a04e831fb.bin"
+    },
+    {
+      "path": "data/maps/LA/LAn.ide",
+      "bytes": 11107,
+      "sha256": "4b2d4cb5d602486382d306c4bf2c22e994142b3e9b27f1409ed7b6e480921bd6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4b2d4cb5d602486382d306c4bf2c22e994142b3e9b27f1409ed7b6e480921bd6.bin"
+    },
+    {
+      "path": "data/maps/LA/LAn.ipl",
+      "bytes": 14264,
+      "sha256": "5552050a2a13f273569ac50f7a518a79eee5589b1c3858487b46c0baac7aee5c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/5552050a2a13f273569ac50f7a518a79eee5589b1c3858487b46c0baac7aee5c.bin"
+    },
+    {
+      "path": "data/maps/LA/LAn2.ide",
+      "bytes": 9565,
+      "sha256": "d8d61f557ea211a2bc57a01d6634d6ef6bb3a46c6cbd94e9d4efb1bd8fa5d2ba",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d8d61f557ea211a2bc57a01d6634d6ef6bb3a46c6cbd94e9d4efb1bd8fa5d2ba.bin"
+    },
+    {
+      "path": "data/maps/LA/LAn2.ipl",
+      "bytes": 13185,
+      "sha256": "aa255df62b7182d939deab0e49c08aa93fd920d6a80eb44587b01d30a09cffe9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/aa255df62b7182d939deab0e49c08aa93fd920d6a80eb44587b01d30a09cffe9.bin"
+    },
+    {
+      "path": "data/maps/LA/LAs.ide",
+      "bytes": 12575,
+      "sha256": "c5873baebb10ea25d1c6067f4f83316af22109722efe1f88a0e4d21e3e834164",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/c5873baebb10ea25d1c6067f4f83316af22109722efe1f88a0e4d21e3e834164.bin"
+    },
+    {
+      "path": "data/maps/LA/LAs.ipl",
+      "bytes": 22414,
+      "sha256": "70d0b22da567a271ed9658675378bdbc14adda507ba59f58a280375d98d0211a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/70d0b22da567a271ed9658675378bdbc14adda507ba59f58a280375d98d0211a.bin"
+    },
+    {
+      "path": "data/maps/LA/LAs2.ide",
+      "bytes": 12364,
+      "sha256": "79c6508be5ce34d9c29631ef4b5014db73c5fc46ca161ee9a37f6b40e867457f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/79c6508be5ce34d9c29631ef4b5014db73c5fc46ca161ee9a37f6b40e867457f.bin"
+    },
+    {
+      "path": "data/maps/LA/LAs2.ipl",
+      "bytes": 38441,
+      "sha256": "6028feed65f354037c7c32478d23da46b4f72d91b6d5cbf21600807d8895abeb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/6028feed65f354037c7c32478d23da46b4f72d91b6d5cbf21600807d8895abeb.bin"
+    },
+    {
+      "path": "data/maps/LA/LAw.ide",
+      "bytes": 9412,
+      "sha256": "f7a2b1cfcbf2785b41d9773c47d0235b0e636ea5dc53395a599649688ddbcc2e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/f7a2b1cfcbf2785b41d9773c47d0235b0e636ea5dc53395a599649688ddbcc2e.bin"
+    },
+    {
+      "path": "data/maps/LA/LAw.ipl",
+      "bytes": 15105,
+      "sha256": "00b70d30638e0054695d9628e299fcc778a0c6959ad28b252d3a4388aac4233a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/00b70d30638e0054695d9628e299fcc778a0c6959ad28b252d3a4388aac4233a.bin"
+    },
+    {
+      "path": "data/maps/LA/LAw2.ide",
+      "bytes": 11060,
+      "sha256": "a9c0b8a67b3d56157735a9f652c37e2a060104f4d05b6e099a7fb46a0766e1fa",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a9c0b8a67b3d56157735a9f652c37e2a060104f4d05b6e099a7fb46a0766e1fa.bin"
+    },
+    {
+      "path": "data/maps/LA/LAw2.ipl",
+      "bytes": 18232,
+      "sha256": "90dd7ed249acb2a5da8b1261f7ddd91d6c5bfc960599a09f4c0043c1dd2b7407",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/90dd7ed249acb2a5da8b1261f7ddd91d6c5bfc960599a09f4c0043c1dd2b7407.bin"
+    },
+    {
+      "path": "data/maps/LA/LAxref.ide",
+      "bytes": 10477,
+      "sha256": "8d4f508d062fb0bbb7c9a5bc90c7070e833e4b5043097d457db763f504802745",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/8d4f508d062fb0bbb7c9a5bc90c7070e833e4b5043097d457db763f504802745.bin"
+    },
+    {
+      "path": "data/maps/LA/LaWn.ide",
+      "bytes": 13092,
+      "sha256": "3c5e12e83a8fb39c45961dcb02a183522b00166f87a8e97caccffb4298daf2da",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/3c5e12e83a8fb39c45961dcb02a183522b00166f87a8e97caccffb4298daf2da.bin"
+    },
+    {
+      "path": "data/maps/LA/LaWn.ipl",
+      "bytes": 24330,
+      "sha256": "b34a1e49bf3b2b4569fdcf69e5f1525394ec49e6cdcc13d6ede7b99468272c94",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b34a1e49bf3b2b4569fdcf69e5f1525394ec49e6cdcc13d6ede7b99468272c94.bin"
+    },
+    {
+      "path": "data/maps/SF/SFSe.ide",
+      "bytes": 30227,
+      "sha256": "9dcb6531a47753c918eefc009a741339b22dc47d2aec9f965aab04f9fa4a9d34",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/9dcb6531a47753c918eefc009a741339b22dc47d2aec9f965aab04f9fa4a9d34.bin"
+    },
+    {
+      "path": "data/maps/SF/SFSe.ipl",
+      "bytes": 53359,
+      "sha256": "a04ff8e238acd0de906d903225741b779a73ce8206a13ff034fcdfa2a768ebd5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a04ff8e238acd0de906d903225741b779a73ce8206a13ff034fcdfa2a768ebd5.bin"
+    },
+    {
+      "path": "data/maps/SF/SFe.ide",
+      "bytes": 16224,
+      "sha256": "96fe8a76d0da486a739ec3f20c58ceda11cd20777eed200b8a10df7bb5f34528",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/96fe8a76d0da486a739ec3f20c58ceda11cd20777eed200b8a10df7bb5f34528.bin"
+    },
+    {
+      "path": "data/maps/SF/SFe.ipl",
+      "bytes": 26707,
+      "sha256": "0b8bb34c554b247c8aed8e309b710be27bcee66ca029323215ed6efe10eedd1c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0b8bb34c554b247c8aed8e309b710be27bcee66ca029323215ed6efe10eedd1c.bin"
+    },
+    {
+      "path": "data/maps/SF/SFn.ide",
+      "bytes": 11219,
+      "sha256": "e54fe3b0043d8265c8c4d130c0d9fcf16ada6f02a1d5063e82097b6e042fbe55",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/e54fe3b0043d8265c8c4d130c0d9fcf16ada6f02a1d5063e82097b6e042fbe55.bin"
+    },
+    {
+      "path": "data/maps/SF/SFn.ipl",
+      "bytes": 26201,
+      "sha256": "cc169fe857e1da974d3605ba112452d7de0832455582e317d75ff8619fd4f73a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/cc169fe857e1da974d3605ba112452d7de0832455582e317d75ff8619fd4f73a.bin"
+    },
+    {
+      "path": "data/maps/SF/SFs.ide",
+      "bytes": 18948,
+      "sha256": "5a7a642e48f68018626aac64aa47627fd4ae75d7c535a2bb86449e78c6565e53",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5a7a642e48f68018626aac64aa47627fd4ae75d7c535a2bb86449e78c6565e53.bin"
+    },
+    {
+      "path": "data/maps/SF/SFs.ipl",
+      "bytes": 37969,
+      "sha256": "c0e6be2722cde673af3e20d827fd16d145d0a6e21fac80644aef01c2610357f3",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c0e6be2722cde673af3e20d827fd16d145d0a6e21fac80644aef01c2610357f3.bin"
+    },
+    {
+      "path": "data/maps/SF/SFw.ide",
+      "bytes": 16473,
+      "sha256": "9b2cea3761c5f95326d77c8989cf0f14f0755c483f667819e01e32f7733b0d0e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/9b2cea3761c5f95326d77c8989cf0f14f0755c483f667819e01e32f7733b0d0e.bin"
+    },
+    {
+      "path": "data/maps/SF/SFw.ipl",
+      "bytes": 29247,
+      "sha256": "b9da860c8d35d2326c2f6fdaf4bc49f16f5b2844256ba3b0d0541bdfacce8e69",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b9da860c8d35d2326c2f6fdaf4bc49f16f5b2844256ba3b0d0541bdfacce8e69.bin"
+    },
+    {
+      "path": "data/maps/SF/SFxref.ide",
+      "bytes": 4631,
+      "sha256": "efdbdbfff67a9b8a71d4b8b250505911966708e15a3627fa8550a7063085de00",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/efdbdbfff67a9b8a71d4b8b250505911966708e15a3627fa8550a7063085de00.bin"
+    },
+    {
+      "path": "data/maps/country/countn2.ide",
+      "bytes": 35439,
+      "sha256": "b10daef34bdaeda8141ab755fb71069c44a7a5ae645f2d8c96891d23d7d8acde",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b10daef34bdaeda8141ab755fb71069c44a7a5ae645f2d8c96891d23d7d8acde.bin"
+    },
+    {
+      "path": "data/maps/country/countn2.ipl",
+      "bytes": 41665,
+      "sha256": "3afc8a78a31cb41299136687debcf69740cf8bd965bbd17762ecbe9345bef9ab",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3afc8a78a31cb41299136687debcf69740cf8bd965bbd17762ecbe9345bef9ab.bin"
+    },
+    {
+      "path": "data/maps/country/countryN.ide",
+      "bytes": 11308,
+      "sha256": "0e29f8d6ef0294e3e430109a0fcb27fff783de16b8877d81370ad348ba1397ff",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0e29f8d6ef0294e3e430109a0fcb27fff783de16b8877d81370ad348ba1397ff.bin"
+    },
+    {
+      "path": "data/maps/country/countryN.ipl",
+      "bytes": 14407,
+      "sha256": "b5367cea8b049e11c1069b1a0bde8435ebc36a1f589fa36624a81f373ab6bbde",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b5367cea8b049e11c1069b1a0bde8435ebc36a1f589fa36624a81f373ab6bbde.bin"
+    },
+    {
+      "path": "data/maps/country/countryS.ide",
+      "bytes": 18450,
+      "sha256": "5180fe4fce5401a86d9060fd1f375ab145af799cdf1e4eb0f5e7433563b4146f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5180fe4fce5401a86d9060fd1f375ab145af799cdf1e4eb0f5e7433563b4146f.bin"
+    },
+    {
+      "path": "data/maps/country/countryS.ipl",
+      "bytes": 33835,
+      "sha256": "4237ab09567168a36564f55217c26c637460d6df9c2326180f7cab7d366afed1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4237ab09567168a36564f55217c26c637460d6df9c2326180f7cab7d366afed1.bin"
+    },
+    {
+      "path": "data/maps/country/countryW.ide",
+      "bytes": 19704,
+      "sha256": "92f33d1807a2f2c6a4c3cd96fea229d8c15ec17bae35aca320034ddf9364e760",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/92f33d1807a2f2c6a4c3cd96fea229d8c15ec17bae35aca320034ddf9364e760.bin"
+    },
+    {
+      "path": "data/maps/country/countrye.ide",
+      "bytes": 34529,
+      "sha256": "db23cd3a79c6f069fff6f25fec644fc52af84c277cbd4b5917a3199317773fad",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/db23cd3a79c6f069fff6f25fec644fc52af84c277cbd4b5917a3199317773fad.bin"
+    },
+    {
+      "path": "data/maps/country/countrye.ipl",
+      "bytes": 49301,
+      "sha256": "d611734b0e0260870c9a46d33121650ca306a35f7b152bee27ff97a422ae4748",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/d611734b0e0260870c9a46d33121650ca306a35f7b152bee27ff97a422ae4748.bin"
+    },
+    {
+      "path": "data/maps/country/countryw.ipl",
+      "bytes": 35057,
+      "sha256": "fe7b91f9136f931dd1b295b594cac1248883143c7dcfc5a2d298c6ab9f020008",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/fe7b91f9136f931dd1b295b594cac1248883143c7dcfc5a2d298c6ab9f020008.bin"
+    },
+    {
+      "path": "data/maps/country/counxref.ide",
+      "bytes": 8494,
+      "sha256": "1f9dff83201ff049a15fe8d1e3a9839c5845eb98ecc2502708b3a99223ed947c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/1f9dff83201ff049a15fe8d1e3a9839c5845eb98ecc2502708b3a99223ed947c.bin"
+    },
+    {
+      "path": "data/maps/cull.ipl",
+      "bytes": 104318,
+      "sha256": "a75be13e83f5255e5cc013302b2233b7059499095b06acfe3f66d72f6fa8413e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a75be13e83f5255e5cc013302b2233b7059499095b06acfe3f66d72f6fa8413e.bin"
+    },
+    {
+      "path": "data/maps/generic/barriers.ide",
+      "bytes": 1437,
+      "sha256": "5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/5b69700e5dd563e6b8b120f881e459cd7eb10550ecf5e8c1cd57b47577378223.bin"
+    },
+    {
+      "path": "data/maps/generic/dynamic.ide",
+      "bytes": 4611,
+      "sha256": "fdc45477f05b63bb4df3d65ea0bbb5c82fa3ad85cc799976266f7f7cebc6410a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/fdc45477f05b63bb4df3d65ea0bbb5c82fa3ad85cc799976266f7f7cebc6410a.bin"
+    },
+    {
+      "path": "data/maps/generic/dynamic2.ide",
+      "bytes": 10510,
+      "sha256": "c1b39abd83d0d2f3a2f30127528cd5b037daeec0001a6d39760bf25ce37026dc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/c1b39abd83d0d2f3a2f30127528cd5b037daeec0001a6d39760bf25ce37026dc.bin"
+    },
+    {
+      "path": "data/maps/generic/multiobj.ide",
+      "bytes": 5020,
+      "sha256": "521445080cb80e11bd17576c70fca9023c69007581f65b78e437ae843e8f78f1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/521445080cb80e11bd17576c70fca9023c69007581f65b78e437ae843e8f78f1.bin"
+    },
+    {
+      "path": "data/maps/generic/procobj.ide",
+      "bytes": 4755,
+      "sha256": "38b1b15e73891d130a85730d7ebfb0e3b649ff2ee5b8e414eccd68318b9246a0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/38b1b15e73891d130a85730d7ebfb0e3b649ff2ee5b8e414eccd68318b9246a0.bin"
+    },
+    {
+      "path": "data/maps/generic/vegepart.ide",
+      "bytes": 8062,
+      "sha256": "db7827eafd3499b0d738bac83e972776ee6cacb364a2181fc6f479242577eb3a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/db7827eafd3499b0d738bac83e972776ee6cacb364a2181fc6f479242577eb3a.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int1.ide",
+      "bytes": 2747,
+      "sha256": "470d6c371015631075458870438953f1f581a5e3aadda6d6760bfb0cecd830a1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/470d6c371015631075458870438953f1f581a5e3aadda6d6760bfb0cecd830a1.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int1.ipl",
+      "bytes": 21074,
+      "sha256": "33129ba14fa76515909906c0dc2cb08f5aed921643c39814638ad9267ab0a614",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/33129ba14fa76515909906c0dc2cb08f5aed921643c39814638ad9267ab0a614.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int2.ide",
+      "bytes": 10941,
+      "sha256": "e1d8a2247ba9da1d242baeff95169b4982ef7289cff626692c25a2785e308544",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/e1d8a2247ba9da1d242baeff95169b4982ef7289cff626692c25a2785e308544.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int2.ipl",
+      "bytes": 1683,
+      "sha256": "a779e8c280cad2fc2d8a0a107336a7ca8e87007c2d1db36f6c62c07eece1e799",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a779e8c280cad2fc2d8a0a107336a7ca8e87007c2d1db36f6c62c07eece1e799.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int3.ide",
+      "bytes": 3252,
+      "sha256": "a0762a373a240c6278aeb624eadde85312e7f39ecf14891df07042972d0553aa",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a0762a373a240c6278aeb624eadde85312e7f39ecf14891df07042972d0553aa.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int3.ipl",
+      "bytes": 2091,
+      "sha256": "eacf70fbd06fe19c9dc028f81eedbf582a2694db0a73d33b5f34ecd70e8b7afb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/eacf70fbd06fe19c9dc028f81eedbf582a2694db0a73d33b5f34ecd70e8b7afb.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int4.ide",
+      "bytes": 2323,
+      "sha256": "50e9826c69e68258966068aa37f7185ef76776c276f61f1285bcbeda4d8c6e0e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/50e9826c69e68258966068aa37f7185ef76776c276f61f1285bcbeda4d8c6e0e.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int4.ipl",
+      "bytes": 1185,
+      "sha256": "5769ca2f39579ee0c43b31658e41b7af3264e4b54e76c70229a4b4fe5916e6e0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5769ca2f39579ee0c43b31658e41b7af3264e4b54e76c70229a4b4fe5916e6e0.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int5.ide",
+      "bytes": 4682,
+      "sha256": "88ba64416b2c8c430761790ff080ebf43077ba338188c94a78cee5e4f73d2d38",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/88ba64416b2c8c430761790ff080ebf43077ba338188c94a78cee5e4f73d2d38.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_int5.ipl",
+      "bytes": 2988,
+      "sha256": "192ba7b31a68ae86a9767d40f7b3918b5da70dbb4445dfe780ac135ae94221a1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/192ba7b31a68ae86a9767d40f7b3918b5da70dbb4445dfe780ac135ae94221a1.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_intb.ide",
+      "bytes": 5459,
+      "sha256": "bd694f4c11fb8ca6171d8e7e61a3b71ebdd3e7885667d8e77ae240dcf0c6ef6a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/bd694f4c11fb8ca6171d8e7e61a3b71ebdd3e7885667d8e77ae240dcf0c6ef6a.bin"
+    },
+    {
+      "path": "data/maps/interior/gen_intb.ipl",
+      "bytes": 1626,
+      "sha256": "76facdeb795adfcd9642c3beaa0d931d90682d12630f2b7ef242b09c4ac14cbe",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/76facdeb795adfcd9642c3beaa0d931d90682d12630f2b7ef242b09c4ac14cbe.bin"
+    },
+    {
+      "path": "data/maps/interior/int_LA.ide",
+      "bytes": 6004,
+      "sha256": "369dcb928bdc5e6d8649b07df9b3cb895ba9a9dba805e94d6ff8201a9d633646",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/369dcb928bdc5e6d8649b07df9b3cb895ba9a9dba805e94d6ff8201a9d633646.bin"
+    },
+    {
+      "path": "data/maps/interior/int_LA.ipl",
+      "bytes": 1312,
+      "sha256": "6daed19fdfa6f325468668a00065999bef9a8e4fff03039e552b8f4533a74d2d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/6daed19fdfa6f325468668a00065999bef9a8e4fff03039e552b8f4533a74d2d.bin"
+    },
+    {
+      "path": "data/maps/interior/int_SF.ide",
+      "bytes": 1260,
+      "sha256": "384d9de6e3a8ff1c4248fa11261863dee3748b3553f7722ed946a4d8aca2a806",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/384d9de6e3a8ff1c4248fa11261863dee3748b3553f7722ed946a4d8aca2a806.bin"
+    },
+    {
+      "path": "data/maps/interior/int_SF.ipl",
+      "bytes": 1334,
+      "sha256": "ae36a8df0e4c502af96c661a105b28a7e08cf8a71774d07fdc0b63a0ab924fe2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/ae36a8df0e4c502af96c661a105b28a7e08cf8a71774d07fdc0b63a0ab924fe2.bin"
+    },
+    {
+      "path": "data/maps/interior/int_cont.ide",
+      "bytes": 385,
+      "sha256": "715a381b2e4455594733639ef7a7a0fcde15c0f6d5ac6d8951705fe6e0eef7dd",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/715a381b2e4455594733639ef7a7a0fcde15c0f6d5ac6d8951705fe6e0eef7dd.bin"
+    },
+    {
+      "path": "data/maps/interior/int_cont.ipl",
+      "bytes": 910,
+      "sha256": "01d68d96bfbfda67102141a9411ccb64499a8f7a50a641220ce7b22012a540a7",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/01d68d96bfbfda67102141a9411ccb64499a8f7a50a641220ce7b22012a540a7.bin"
+    },
+    {
+      "path": "data/maps/interior/int_veg.ide",
+      "bytes": 4684,
+      "sha256": "c3ad8ecb96b83f2c728ee62f61f4bdcb92dc9ba65f4d1c876704167c07ccef34",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c3ad8ecb96b83f2c728ee62f61f4bdcb92dc9ba65f4d1c876704167c07ccef34.bin"
+    },
+    {
+      "path": "data/maps/interior/int_veg.ipl",
+      "bytes": 5299,
+      "sha256": "115974e58e84ac9772806c8f16a2e322b8b7ce14198480e27f0505872e943f2d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/115974e58e84ac9772806c8f16a2e322b8b7ce14198480e27f0505872e943f2d.bin"
+    },
+    {
+      "path": "data/maps/interior/propext.ide",
+      "bytes": 2340,
+      "sha256": "07ff34faa2883f97fb1c538e45e92b7951463eeb8eba6d053432984f4e9abe99",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/07ff34faa2883f97fb1c538e45e92b7951463eeb8eba6d053432984f4e9abe99.bin"
+    },
+    {
+      "path": "data/maps/interior/props.ide",
+      "bytes": 26326,
+      "sha256": "5ba09718a9c248f83b82d306efbe95b7be5b7f7cdce6b2b17d5a5a11aa0a6b3e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/5ba09718a9c248f83b82d306efbe95b7be5b7f7cdce6b2b17d5a5a11aa0a6b3e.bin"
+    },
+    {
+      "path": "data/maps/interior/props2.ide",
+      "bytes": 21174,
+      "sha256": "0e1f4ac0e3cd41af8d8ea83ea37473e91091c63bfdeff836bec40d9dacfbd5a6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0e1f4ac0e3cd41af8d8ea83ea37473e91091c63bfdeff836bec40d9dacfbd5a6.bin"
+    },
+    {
+      "path": "data/maps/interior/savehous.ide",
+      "bytes": 1724,
+      "sha256": "48d840b6e18dee698982158f70f30b3c0eb406286ae9e7e70744061c86abf19a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/48d840b6e18dee698982158f70f30b3c0eb406286ae9e7e70744061c86abf19a.bin"
+    },
+    {
+      "path": "data/maps/interior/savehous.ipl",
+      "bytes": 2959,
+      "sha256": "eb7b018ba03f934b14fa9ac11f7e151173e669d1c7f69a4d162c0a88a092ec38",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/eb7b018ba03f934b14fa9ac11f7e151173e669d1c7f69a4d162c0a88a092ec38.bin"
+    },
+    {
+      "path": "data/maps/interior/stadint.ide",
+      "bytes": 2851,
+      "sha256": "e2d66db082e7d439472e71ad995bde42b91a9a382eb53f6369e46c1179778307",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/e2d66db082e7d439472e71ad995bde42b91a9a382eb53f6369e46c1179778307.bin"
+    },
+    {
+      "path": "data/maps/interior/stadint.ipl",
+      "bytes": 6299,
+      "sha256": "f0720fd785069839b9b28a87ce80ede2cf8d4beb58bb009bcd50195ee54a962a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/f0720fd785069839b9b28a87ce80ede2cf8d4beb58bb009bcd50195ee54a962a.bin"
+    },
+    {
+      "path": "data/maps/leveldes/leveldes.ide",
+      "bytes": 360,
+      "sha256": "5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/5c4cda0261a8302acd997679b3bbe604754423a7b0ce30707bfb81d7f1d569d4.bin"
+    },
+    {
+      "path": "data/maps/leveldes/leveldes.ipl",
+      "bytes": 165,
+      "sha256": "a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a023d0150ceb2b0d571901ca1d22a2a1377337ac874d593a574eb7426bed65f2.bin"
+    },
+    {
+      "path": "data/maps/leveldes/levelmap.ide",
+      "bytes": 3194,
+      "sha256": "c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/c5d635c1ebd2fdd9f85c990dcf51e37f73ad8bc2e759dd5daa8ab13f45dad74d.bin"
+    },
+    {
+      "path": "data/maps/leveldes/levelmap.ipl",
+      "bytes": 4675,
+      "sha256": "2bacd4d04c78e17e9f34368352c5220e09cbabc45d080d3cd7005097f9d4c7d5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/2bacd4d04c78e17e9f34368352c5220e09cbabc45d080d3cd7005097f9d4c7d5.bin"
+    },
+    {
+      "path": "data/maps/leveldes/levelxre.ide",
+      "bytes": 9897,
+      "sha256": "330612dcd0250927a6931629c78d899891f7462306058637a2ea71bd2981fce2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/330612dcd0250927a6931629c78d899891f7462306058637a2ea71bd2981fce2.bin"
+    },
+    {
+      "path": "data/maps/leveldes/seabed.ide",
+      "bytes": 12039,
+      "sha256": "5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/5c57137733b59ec7455e821947c9fa5fb1051f69c9499a2c916ef72b77e01256.bin"
+    },
+    {
+      "path": "data/maps/leveldes/seabed.ipl",
+      "bytes": 23342,
+      "sha256": "4f8c7c66864c454a8546257beb54a34a1397d2d637b2c77c70cd16925ec2ab21",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/4f8c7c66864c454a8546257beb54a34a1397d2d637b2c77c70cd16925ec2ab21.bin"
+    },
+    {
+      "path": "data/maps/occlu.ipl",
+      "bytes": 1012,
+      "sha256": "b79d16581e954255ec06394b4c1ad6303ec6ed9eeb79a44ae51764f8d9a708c7",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b79d16581e954255ec06394b4c1ad6303ec6ed9eeb79a44ae51764f8d9a708c7.bin"
+    },
+    {
+      "path": "data/maps/occluLA.ipl",
+      "bytes": 35956,
+      "sha256": "92f9a47f2cf09be813f5cbb94152fad4afdad66da85d0834b5c54179391d09eb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/92f9a47f2cf09be813f5cbb94152fad4afdad66da85d0834b5c54179391d09eb.bin"
+    },
+    {
+      "path": "data/maps/occluint.ipl",
+      "bytes": 2338,
+      "sha256": "23d5054e2f69d052c305c21b860c40cc135b4509d3b1aa84ca974716b25fefe0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/23d5054e2f69d052c305c21b860c40cc135b4509d3b1aa84ca974716b25fefe0.bin"
+    },
+    {
+      "path": "data/maps/occlusf.ipl",
+      "bytes": 16114,
+      "sha256": "c547a2eab51fcaa8c100ba7d6a12cf5e32d9c547756494e2fa664589450eacc3",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/c547a2eab51fcaa8c100ba7d6a12cf5e32d9c547756494e2fa664589450eacc3.bin"
+    },
+    {
+      "path": "data/maps/occluveg.ipl",
+      "bytes": 17944,
+      "sha256": "d5c59492e23c14b56409ddeaa20ee95e2c57d4225829b3c94519b52b8d6d8427",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d5c59492e23c14b56409ddeaa20ee95e2c57d4225829b3c94519b52b8d6d8427.bin"
+    },
+    {
+      "path": "data/maps/paths.ipl",
+      "bytes": 2658607,
+      "sha256": "1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/1b8b896eda941aaf31391af571c52d371f5d7617cb2ccf44d148f80e464142ea.bin"
+    },
+    {
+      "path": "data/maps/paths2.ipl",
+      "bytes": 2292241,
+      "sha256": "70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/70a6488bf2c39e486262c6396164c7135b3966797d978d49dcc4788d6242bb1d.bin"
+    },
+    {
+      "path": "data/maps/paths3.ipl",
+      "bytes": 2428066,
+      "sha256": "50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/50a8a882a36c6a39fdbe417000e27579d0f37541df3a0d54bc306c5a70316c5a.bin"
+    },
+    {
+      "path": "data/maps/paths4.ipl",
+      "bytes": 253014,
+      "sha256": "9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/9e770e5ce9724b94ca74dd9256534e233f0b37b0ff72d0001dd1cf93fe5f9f25.bin"
+    },
+    {
+      "path": "data/maps/paths5.ipl",
+      "bytes": 457678,
+      "sha256": "67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/67fc1be4e28dd4837d7d3f369e0d8b1ceae67f1e507959fd2c38cbce4e15949c.bin"
+    },
+    {
+      "path": "data/maps/tunnels.ipl",
+      "bytes": 3230,
+      "sha256": "62479143348a7fb579ebd8d45271afe07aed7b639a90c4933036f12d90853dfc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/62479143348a7fb579ebd8d45271afe07aed7b639a90c4933036f12d90853dfc.bin"
+    },
+    {
+      "path": "data/maps/vegas/VegasN.ide",
+      "bytes": 23715,
+      "sha256": "394aa4049796756c6773075f5954b9c93ab6963f05c29afd781d556638c6f53a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/394aa4049796756c6773075f5954b9c93ab6963f05c29afd781d556638c6f53a.bin"
+    },
+    {
+      "path": "data/maps/vegas/VegasS.ide",
+      "bytes": 18656,
+      "sha256": "5a10346606025e6793e670ad3b5ff0f4e96f59961951c80a27462cc704823ad9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5a10346606025e6793e670ad3b5ff0f4e96f59961951c80a27462cc704823ad9.bin"
+    },
+    {
+      "path": "data/maps/vegas/VegasW.ide",
+      "bytes": 25456,
+      "sha256": "6499b130002d706e7808c63d7570b35030d4af89d211c43e5dc1ee1b9c9ea238",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/6499b130002d706e7808c63d7570b35030d4af89d211c43e5dc1ee1b9c9ea238.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegasE.ide",
+      "bytes": 35542,
+      "sha256": "6c0d3f2377478267dbed12a1c18c56b9a8a249371bfe923d01df6a7ed4850d85",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/6c0d3f2377478267dbed12a1c18c56b9a8a249371bfe923d01df6a7ed4850d85.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegasE.ipl",
+      "bytes": 61084,
+      "sha256": "09b34e42e353b20a3ebf39d1c305a00d5de5fb7cb532da92e7d7cd122f189c47",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/09b34e42e353b20a3ebf39d1c305a00d5de5fb7cb532da92e7d7cd122f189c47.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegasN.ipl",
+      "bytes": 36651,
+      "sha256": "a2a67b14a3ccab29c9ca4cc2a579b286ff7c1364b8448bc910e4ed6d1bbde4a7",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/a2a67b14a3ccab29c9ca4cc2a579b286ff7c1364b8448bc910e4ed6d1bbde4a7.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegasS.ipl",
+      "bytes": 30343,
+      "sha256": "8608f4bcc70927fc50928a3189a9f4d96320f85db052c7e15f6fea6d40f8cec4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/8608f4bcc70927fc50928a3189a9f4d96320f85db052c7e15f6fea6d40f8cec4.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegasW.ipl",
+      "bytes": 49867,
+      "sha256": "8772cd91905a1374886376d7f0a508c666fd8b91478c5f3afc87673ae4e78abc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/8772cd91905a1374886376d7f0a508c666fd8b91478c5f3afc87673ae4e78abc.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegaxref.ide",
+      "bytes": 5751,
+      "sha256": "b52b2622a39a25f62b25960e69e30a96ac43f2e76a2a428aa9d49ee51eca93ed",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b52b2622a39a25f62b25960e69e30a96ac43f2e76a2a428aa9d49ee51eca93ed.bin"
+    },
+    {
+      "path": "data/maps/vegas/vegaxref.ipl",
+      "bytes": 3661,
+      "sha256": "45a15259f02a25fcbd3a575ae2a0846a688aafc5bda2c525fa59626e1006557e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/45a15259f02a25fcbd3a575ae2a0846a688aafc5bda2c525fa59626e1006557e.bin"
+    },
+    {
+      "path": "data/maps/veh_mods/veh_mods.ide",
+      "bytes": 7323,
+      "sha256": "0338813d49e3c1d92d7f660357d0ab6a6778e65a2e05b0c9cb1f99ffd29c3edc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/0338813d49e3c1d92d7f660357d0ab6a6778e65a2e05b0c9cb1f99ffd29c3edc.bin"
+    },
+    {
+      "path": "data/melee.dat",
+      "bytes": 6306,
+      "sha256": "d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d82430a32f31c239c38e1db8c83589307fb221fce417962993a8c63cb1d3da4b.bin"
+    },
+    {
+      "path": "data/object.dat",
+      "bytes": 126118,
+      "sha256": "c963c980d90891cbb4ab81a6a8daa294a5813cba46fae4b1302951c32ca472d8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c963c980d90891cbb4ab81a6a8daa294a5813cba46fae4b1302951c32ca472d8.bin"
+    },
+    {
+      "path": "data/paths/ROADBLOX.DAT",
+      "bytes": 1304,
+      "sha256": "2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2da412adc28eefd4b406df53e0ab2693eb564d8dfeb73f31ca771022280342ef.bin"
+    },
+    {
+      "path": "data/paths/carrec.img",
+      "bytes": 2357248,
+      "sha256": "207d3d1cbcf07744dd6b3110d977d3838e53970d785e465dcada3dee5e08c522",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/207d3d1cbcf07744dd6b3110d977d3838e53970d785e465dcada3dee5e08c522.bin"
+    },
+    {
+      "path": "data/paths/tracks.dat",
+      "bytes": 25474,
+      "sha256": "9f3509865baa1424cedce8c9185f93bf575eb1d6cb2e114f1c704f07f92d0f55",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/9f3509865baa1424cedce8c9185f93bf575eb1d6cb2e114f1c704f07f92d0f55.bin"
+    },
+    {
+      "path": "data/paths/tracks2.dat",
+      "bytes": 1892,
+      "sha256": "f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/f30af4dd0b7948321db633d4964898961b4ae97f5c29b6ca1cdcb9b77e6f4985.bin"
+    },
+    {
+      "path": "data/paths/tracks3.dat",
+      "bytes": 8328,
+      "sha256": "b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b8ed468ae2aa953250f5f9bcf1ff34ec7a413cfca63357a6a531f37dfb9b5767.bin"
+    },
+    {
+      "path": "data/paths/tracks4.dat",
+      "bytes": 18347,
+      "sha256": "e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/e8decea200f701498cf1414a4d6accb1dc6fdeb147ac30cd3500e0ae27cdcd69.bin"
+    },
+    {
+      "path": "data/ped.dat",
+      "bytes": 1276,
+      "sha256": "fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/fa4a2636ba772080c75d0986379a862c4c2f7cf7bf6c1550557f3557236b450e.bin"
+    },
+    {
+      "path": "data/pedgrp.dat",
+      "bytes": 5792,
+      "sha256": "157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/157f429231421f37d44b2b4890b14ee0537f7f32a8bdf71a140340ac04770222.bin"
+    },
+    {
+      "path": "data/peds.ide",
+      "bytes": 33401,
+      "sha256": "ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/ec16c488c40f2c563c475130eb7ef633a024ac6bc0f01e8bfb248972a241af92.bin"
+    },
+    {
+      "path": "data/pedstats.dat",
+      "bytes": 3604,
+      "sha256": "280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/280c12e4f8b36f6e68b68323fb3d01d853b9a91bf4497964ce5159abfd84d684.bin"
+    },
+    {
+      "path": "data/plants.dat",
+      "bytes": 9887,
+      "sha256": "d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/d989d13c540be6e8c7e381ac1785a61a99ca8dc97002ed9013a0312b5dab08a8.bin"
+    },
+    {
+      "path": "data/popcycle.dat",
+      "bytes": 127108,
+      "sha256": "7adf28ff336d652a0d85cd8c9cb37379755e7f68a00b3637ea4afc4d4184aac7",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/7adf28ff336d652a0d85cd8c9cb37379755e7f68a00b3637ea4afc4d4184aac7.bin"
+    },
+    {
+      "path": "data/procobj.dat",
+      "bytes": 10019,
+      "sha256": "b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b41895965d087b90aa8b11a66849002a08256a27010209b2b534e0f4438d95c5.bin"
+    },
+    {
+      "path": "data/script/mainV1.scm",
+      "bytes": 3169778,
+      "sha256": "c09e88e03e726a2f061bbbdf7a9ae8e8c3af0881092bd6be0c48054d0a93e60d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c09e88e03e726a2f061bbbdf7a9ae8e8c3af0881092bd6be0c48054d0a93e60d.bin"
+    },
+    {
+      "path": "data/script/scriptv1.img",
+      "bytes": 561152,
+      "sha256": "d7d76957df37eb85b2df3aff1cf9ab9963a152b19e4a208cd5e49e72a457f525",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d7d76957df37eb85b2df3aff1cf9ab9963a152b19e4a208cd5e49e72a457f525.bin"
+    },
+    {
+      "path": "data/shopping.dat",
+      "bytes": 46875,
+      "sha256": "93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/93e640e29049ee9985185b7aaf1b2f3d11f8540ff8791a751632d6ba90d0bd4d.bin"
+    },
+    {
+      "path": "data/statdisp.dat",
+      "bytes": 7292,
+      "sha256": "b0a95199c27656c43f3f3b0d7bb302649c7605a563634cdf81116929b89e04ab",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b0a95199c27656c43f3f3b0d7bb302649c7605a563634cdf81116929b89e04ab.bin"
+    },
+    {
+      "path": "data/surface.dat",
+      "bytes": 576,
+      "sha256": "09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/09cf086c44c2409f6d5f40f58d7a753f0384d227b7f8c27fec7fe5dbe56c4a90.bin"
+    },
+    {
+      "path": "data/surfaud.dat",
+      "bytes": 6530,
+      "sha256": "5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/5a25dfb38743e42b46f7979941f9fa8a1201788e91f991975dfed997aa4db605.bin"
+    },
+    {
+      "path": "data/surfinfo.dat",
+      "bytes": 28106,
+      "sha256": "431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/431b95d4dcb20ce5258f7d939902c56d50fb4ee68b30ed7a044919c666291b55.bin"
+    },
+    {
+      "path": "data/timecyc.dat",
+      "bytes": 40037,
+      "sha256": "0efce1a3d36aac22bf5276f65f7a8aa411ce34bdcbe5128cef4c800f82d5754b",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0efce1a3d36aac22bf5276f65f7a8aa411ce34bdcbe5128cef4c800f82d5754b.bin"
+    },
+    {
+      "path": "data/txdcut.ide",
+      "bytes": 478,
+      "sha256": "68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/68299b02ec1f00da7a93a400742c9f8edf3b776cf339431228af969f95249055.bin"
+    },
+    {
+      "path": "data/vehicles.ide",
+      "bytes": 21093,
+      "sha256": "2d70455cda1ed89da9cc1a995ccb2539899b84360a2411c887d88617365ead37",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2d70455cda1ed89da9cc1a995ccb2539899b84360a2411c887d88617365ead37.bin"
+    },
+    {
+      "path": "data/water.dat",
+      "bytes": 70099,
+      "sha256": "1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/1562bc86766ce595d7513f3ca3ae3fc4147b574c8c4e703fe6a76678507969bf.bin"
+    },
+    {
+      "path": "data/water1.dat",
+      "bytes": 60063,
+      "sha256": "c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/c43d750c3a9b1d645235f0c987fac3b1f2fa20aafd78449e831f2aea36de5f68.bin"
+    },
+    {
+      "path": "data/weapon.dat",
+      "bytes": 11599,
+      "sha256": "2d1882345168d3cfb8c8ba4065eea13ff08a05a0432d4f6ce0874110ea873b12",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2d1882345168d3cfb8c8ba4065eea13ff08a05a0432d4f6ce0874110ea873b12.bin"
+    },
+    {
+      "path": "effect/effect_black_test.png",
+      "bytes": 849270,
+      "sha256": "d58638e8953288499402cbe414f42b5173823e7e307263e2d57783800a31d0a3",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d58638e8953288499402cbe414f42b5173823e7e307263e2d57783800a31d0a3.bin"
+    },
+    {
+      "path": "effect/songkraneffect.png",
+      "bytes": 658384,
+      "sha256": "1b791c4fbc6cbd94512ab64823de4a6d9256c96be7795fb756551f7c17559fa5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/1b791c4fbc6cbd94512ab64823de4a6d9256c96be7795fb756551f7c17559fa5.bin"
+    },
+    {
+      "path": "gta_sa.set",
+      "bytes": 159,
+      "sha256": "043bc15685655f3c718a46600b2d632bf9580b206b6c453478ee1e1b739de29f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/043bc15685655f3c718a46600b2d632bf9580b206b6c453478ee1e1b739de29f.bin"
+    },
+    {
+      "path": "gtasatelem.set",
+      "bytes": 392,
+      "sha256": "559c8216fe96869279ccc0e4dbcfaad624af84015fa0a526b002046664623790",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/559c8216fe96869279ccc0e4dbcfaad624af84015fa0a526b002046664623790.bin"
+    },
+    {
+      "path": "models/coll/peds.col",
+      "bytes": 21477,
+      "sha256": "d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/d6faa88b9227e6f6fe286f69cfd8d7348229bda267b21125b7daea4d3dd23d10.bin"
+    },
+    {
+      "path": "models/coll/vehicles.col",
+      "bytes": 1096,
+      "sha256": "4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4b6fa3aacf7d8be7aabf2e7048b5d7bd9bc89991b13f4f3d7334047a4f5359cf.bin"
+    },
+    {
+      "path": "models/coll/weapons.col",
+      "bytes": 560,
+      "sha256": "389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/389a5656e0496486e1c546e1e8ffd5399c1563c717f8238dcfdee3b6756903e6.bin"
+    },
+    {
+      "path": "models/effects.fxp",
+      "bytes": 616708,
+      "sha256": "95c1915d39fd8df2292f6ec78b9476d4b3f86a65af5c0c0d222b6534adf44679",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/95c1915d39fd8df2292f6ec78b9476d4b3f86a65af5c0c0d222b6534adf44679.bin"
+    },
+    {
+      "path": "scache_small.txt",
+      "bytes": 1010,
+      "sha256": "0d5ed61fbb05c745b83925b5f9f1693e892c1b521a2920a968152f63bef032de",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/0d5ed61fbb05c745b83925b5f9f1693e892c1b521a2920a968152f63bef032de.bin"
+    },
+    {
+      "path": "scache_small_low.txt",
+      "bytes": 943,
+      "sha256": "c1b61662bfb677ceebfd4edeae92c8c69d7c87bea727a647c8152c9a70597e93",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/c1b61662bfb677ceebfd4edeae92c8c69d7c87bea727a647c8152c9a70597e93.bin"
+    },
+    {
+      "path": "stream.ini",
+      "bytes": 197,
+      "sha256": "e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/e5b4ac3e7797a271660a091bdc0e4663beedcab43acaee2473086ca8f925a148.bin"
+    },
+    {
+      "path": "texdb/DEEP_SAMP.img",
+      "bytes": 39202816,
+      "sha256": "4cfd8575c4b1175f1f53de197af6d64ca82d8a252d10fe6774707b18523575c1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/4cfd8575c4b1175f1f53de197af6d64ca82d8a252d10fe6774707b18523575c1.bin"
+    },
+    {
+      "path": "texdb/NEWTHINGS01.img",
+      "bytes": 296065024,
+      "sha256": "f25e9cd41511dab36815a7631de635dd323e0edc12da29e275ee40e4d1ee4362",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/f25e9cd41511dab36815a7631de635dd323e0edc12da29e275ee40e4d1ee4362.bin"
+    },
+    {
+      "path": "texdb/NEWTHINGS02.img",
+      "bytes": 256946176,
+      "sha256": "97e5e46e1d1d589e6d070ff4dcac272c8fff6a42c86d6a00787fe9debd75b64c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/97e5e46e1d1d589e6d070ff4dcac272c8fff6a42c86d6a00787fe9debd75b64c.bin"
+    },
+    {
+      "path": "texdb/NEWTHINGS03.img",
+      "bytes": 318103552,
+      "sha256": "970f5d4ec7789fe7f37120d6f27ffabf5f8fe74b9a698320c3da83ef80def2fc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/970f5d4ec7789fe7f37120d6f27ffabf5f8fe74b9a698320c3da83ef80def2fc.bin"
+    },
+    {
+      "path": "texdb/NEWTHINGS04.img",
+      "bytes": 216985600,
+      "sha256": "cb01538588127812ecfe7710f4223dae4d8fca50ee62cbb2240e8fde299063ab",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/cb01538588127812ecfe7710f4223dae4d8fca50ee62cbb2240e8fde299063ab.bin"
+    },
+    {
+      "path": "texdb/NEWTHINGS05.img",
+      "bytes": 113158144,
+      "sha256": "536acce4c7f5f400b2571aa2844d1f1867a2a152350b2d20ec24750b63102ebc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/536acce4c7f5f400b2571aa2844d1f1867a2a152350b2d20ec24750b63102ebc.bin"
+    },
+    {
+      "path": "texdb/SAMP.ide",
+      "bytes": 87794,
+      "sha256": "fca76e6d069b17180da068d8054b382c287bcb2aeac1d2ca8b990f104d265274",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/fca76e6d069b17180da068d8054b382c287bcb2aeac1d2ca8b990f104d265274.bin"
+    },
+    {
+      "path": "texdb/SAMP.ipl",
+      "bytes": 2291,
+      "sha256": "a0c31a4593de2ffe6dc734eae06c3794dcec985f53a4e985f6b895789847a26d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a0c31a4593de2ffe6dc734eae06c3794dcec985f53a4e985f6b895789847a26d.bin"
+    },
+    {
+      "path": "texdb/SAMPCOL.img",
+      "bytes": 4253696,
+      "sha256": "7aa1bfcf3aba74b7af0a7314f4437e739b07d6428a9ae19793e699861af7f443",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/7aa1bfcf3aba74b7af0a7314f4437e739b07d6428a9ae19793e699861af7f443.bin"
+    },
+    {
+      "path": "texdb/cutscene.img",
+      "bytes": 16029696,
+      "sha256": "2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/2c14266a47364899b654c224571773483b1127e878ca49a86662af59ee3edc3c.bin"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.dat",
+      "bytes": 5731070,
+      "sha256": "f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/f48bd34c47a72ddf189c3334c8d56109cd8e06615004e051da0a6945709ccf17.bin"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.tmb",
+      "bytes": 19440,
+      "sha256": "a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a02e47b792da67977141eb480f3521cae6b9a0db897b48de77e627e995a6b6ac.bin"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.toc",
+      "bytes": 1628,
+      "sha256": "0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/0956261f295b8140b86635da6c7dece3e70fa85fdf3fdbf903aace07e6beaef6.bin"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.txt",
+      "bytes": 24626,
+      "sha256": "48e9f39481b3cf6214883918901e98d6f1d4984a79ec5e35f8067c6b3414f27d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/48e9f39481b3cf6214883918901e98d6f1d4984a79ec5e35f8067c6b3414f27d.bin"
+    },
+    {
+      "path": "texdb/gta3.img",
+      "bytes": 283867136,
+      "sha256": "a12670593d157de14a78693f104b2acba02773b067b743a915fb738353b0822e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a12670593d157de14a78693f104b2acba02773b067b743a915fb738353b0822e.bin"
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.dat",
+      "bytes": 185311596,
+      "sha256": "79e0566462661e4885d5f47ac46fd06ddc6d345e7a5fe442c1aed2f4341132b0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/79e0566462661e4885d5f47ac46fd06ddc6d345e7a5fe442c1aed2f4341132b0.bin"
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.tmb",
+      "bytes": 525340,
+      "sha256": "3d72758835ee48e2eb3ca5daed2182c51875c34fee6f565ccb28960ba6026703",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3d72758835ee48e2eb3ca5daed2182c51875c34fee6f565ccb28960ba6026703.bin"
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.toc",
+      "bytes": 49784,
+      "sha256": "9ad37202e0b1e561a1d55043f5f63b5a3583ec8c10da6bcc040eecdd01464e22",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/9ad37202e0b1e561a1d55043f5f63b5a3583ec8c10da6bcc040eecdd01464e22.bin"
+    },
+    {
+      "path": "texdb/gta3/gta3.txt",
+      "bytes": 792665,
+      "sha256": "7927cde446ee153468c649ea590031aefca5332b80474ad4dc9b3cda978b6ace",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/7927cde446ee153468c649ea590031aefca5332b80474ad4dc9b3cda978b6ace.bin"
+    },
+    {
+      "path": "texdb/gta_int.img",
+      "bytes": 45381632,
+      "sha256": "9c02233551db70876870fddb0a9ebd82060d6738b5663f590d181e4ac77e6c8f",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/9c02233551db70876870fddb0a9ebd82060d6738b5663f590d181e4ac77e6c8f.bin"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.dat",
+      "bytes": 48496978,
+      "sha256": "59908f3447d43c9e8f6fc2bc7f15c71cf4186b307d8a99cd03e6b3b2a6f7aebc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/59908f3447d43c9e8f6fc2bc7f15c71cf4186b307d8a99cd03e6b3b2a6f7aebc.bin"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.tmb",
+      "bytes": 125994,
+      "sha256": "14bb7f567c386eb5299135fb82190e693eb14b5523c28f8aa932a7813b071612",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/14bb7f567c386eb5299135fb82190e693eb14b5523c28f8aa932a7813b071612.bin"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.toc",
+      "bytes": 10168,
+      "sha256": "9e265844e5b6d4481022e622a7295e3271c362c824f2a3b89e45221622f0b413",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/9e265844e5b6d4481022e622a7295e3271c362c824f2a3b89e45221622f0b413.bin"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.txt",
+      "bytes": 159541,
+      "sha256": "b1a29772a053624a9e2d4a1b3dfaee038919c740b9731ab26e82d67cc036b8dc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b1a29772a053624a9e2d4a1b3dfaee038919c740b9731ab26e82d67cc036b8dc.bin"
+    },
+    {
+      "path": "texdb/gtasa/gtasa.dxt.dat",
+      "bytes": 1577180,
+      "sha256": "575296e7387e1951a7c3b3216205d61a06bf9755e1b32e2961b82789082b7661",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/575296e7387e1951a7c3b3216205d61a06bf9755e1b32e2961b82789082b7661.bin"
+    },
+    {
+      "path": "texdb/gtasa/gtasa.dxt.tmb",
+      "bytes": 10544,
+      "sha256": "b8dd855e85a67f02e1385f199eb9803d51ce29d5fbb381c850c68ca12b7c6f42",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/b8dd855e85a67f02e1385f199eb9803d51ce29d5fbb381c850c68ca12b7c6f42.bin"
+    },
+    {
+      "path": "texdb/gtasa/gtasa.dxt.toc",
+      "bytes": 176,
+      "sha256": "682573f5e687d48df9e8204fef3748db1a5a9d44a33731fa37c90f63bc715244",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/682573f5e687d48df9e8204fef3748db1a5a9d44a33731fa37c90f63bc715244.bin"
+    },
+    {
+      "path": "texdb/gtasa/gtasa.txt",
+      "bytes": 2904,
+      "sha256": "6c18f169b430908a7f0cb631955dc9d594ca57d74a17381d8eda78492bd097c6",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/6c18f169b430908a7f0cb631955dc9d594ca57d74a17381d8eda78492bd097c6.bin"
+    },
+    {
+      "path": "texdb/menu/menu.dxt.dat",
+      "bytes": 7799478,
+      "sha256": "d4e2e3454e18a2013ecc12707deb4334fbc87b3353279327704dc74bcd237314",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d4e2e3454e18a2013ecc12707deb4334fbc87b3353279327704dc74bcd237314.bin"
+    },
+    {
+      "path": "texdb/menu/menu.dxt.tmb",
+      "bytes": 860,
+      "sha256": "d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/d2b94349457957a1e396a6d2735366f1161b628a797178c7edea4d15230d6dec.bin"
+    },
+    {
+      "path": "texdb/menu/menu.dxt.toc",
+      "bytes": 176,
+      "sha256": "d408caead030999dc56e7d699de75d28e3d34ca9e6a309fecf12f835d9701518",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d408caead030999dc56e7d699de75d28e3d34ca9e6a309fecf12f835d9701518.bin"
+    },
+    {
+      "path": "texdb/menu/menu.txt",
+      "bytes": 3342,
+      "sha256": "21d302f3b94f773d20ea273a50c564df6237fbc935d7f280f4330ccf57d1bcc9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/21d302f3b94f773d20ea273a50c564df6237fbc935d7f280f4330ccf57d1bcc9.bin"
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.dat",
+      "bytes": 7267946,
+      "sha256": "4a07efb62967b47e4d120c668bdf22adc84ad8a465b2c941adad980e74568a98",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/4a07efb62967b47e4d120c668bdf22adc84ad8a465b2c941adad980e74568a98.bin"
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.tmb",
+      "bytes": 3940,
+      "sha256": "e01faca8b96b097667bb267df0a4727c1e8a9bb5f47a724e0d532623fd7dd57a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/e01faca8b96b097667bb267df0a4727c1e8a9bb5f47a724e0d532623fd7dd57a.bin"
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.toc",
+      "bytes": 792,
+      "sha256": "47aad4ba5a98825c1976f8b40fb8581c6eceab00f9f831008239e2cd69631cad",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/47aad4ba5a98825c1976f8b40fb8581c6eceab00f9f831008239e2cd69631cad.bin"
+    },
+    {
+      "path": "texdb/mobile/mobile.txt",
+      "bytes": 14502,
+      "sha256": "b749f29e3c8a3b2e6d386d13b1657f082133563c0b5a87067171568b3713f4fa",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b749f29e3c8a3b2e6d386d13b1657f082133563c0b5a87067171568b3713f4fa.bin"
+    },
+    {
+      "path": "texdb/newthings01/newthings01.dxt.dat",
+      "bytes": 221225328,
+      "sha256": "2e8e816a0132ca597c213668da7afafa10ad1ceee11364778e1ebfd9519f93af",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/2e8e816a0132ca597c213668da7afafa10ad1ceee11364778e1ebfd9519f93af.bin"
+    },
+    {
+      "path": "texdb/newthings01/newthings01.dxt.tmb",
+      "bytes": 83248,
+      "sha256": "fe427b3b2e268d474bf78a358a8ca782ea3ac7b77bc58d37f3df38c7c4a5f734",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/fe427b3b2e268d474bf78a358a8ca782ea3ac7b77bc58d37f3df38c7c4a5f734.bin"
+    },
+    {
+      "path": "texdb/newthings01/newthings01.dxt.toc",
+      "bytes": 3748,
+      "sha256": "baef7976de1849b5ae40fd58c00eb4f05da94bb21607d4db00d4f79b19ef84a8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/baef7976de1849b5ae40fd58c00eb4f05da94bb21607d4db00d4f79b19ef84a8.bin"
+    },
+    {
+      "path": "texdb/newthings01/newthings01.txt",
+      "bytes": 56442,
+      "sha256": "4b0ab9c4b3da96614ea37342c6dd633228e577a1dac893420261144411b372fc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4b0ab9c4b3da96614ea37342c6dd633228e577a1dac893420261144411b372fc.bin"
+    },
+    {
+      "path": "texdb/newthings02/newthings02.dxt.dat",
+      "bytes": 305836702,
+      "sha256": "54ab55ec6387e9d842a29e0ccb0e76e6fe8b447cc82329c8f4e5a98f23f5976e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/54ab55ec6387e9d842a29e0ccb0e76e6fe8b447cc82329c8f4e5a98f23f5976e.bin"
+    },
+    {
+      "path": "texdb/newthings02/newthings02.dxt.tmb",
+      "bytes": 103952,
+      "sha256": "fe9707d25c893bbf4adfde9651416bfef5013143562cd18d20dae2d5c66ccb9e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/fe9707d25c893bbf4adfde9651416bfef5013143562cd18d20dae2d5c66ccb9e.bin"
+    },
+    {
+      "path": "texdb/newthings02/newthings02.dxt.toc",
+      "bytes": 3696,
+      "sha256": "dbfc0aced2682a484f1e276c60c6cf57347b337488930596ce7da0acf2160e5a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/dbfc0aced2682a484f1e276c60c6cf57347b337488930596ce7da0acf2160e5a.bin"
+    },
+    {
+      "path": "texdb/newthings02/newthings02.txt",
+      "bytes": 53545,
+      "sha256": "b0a8e9a0f8efede954e026fafeedd45b4facec9416db4dc6ce4904d5e6251cb4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/b0a8e9a0f8efede954e026fafeedd45b4facec9416db4dc6ce4904d5e6251cb4.bin"
+    },
+    {
+      "path": "texdb/newthings03/newthings03.dxt.dat",
+      "bytes": 463836986,
+      "sha256": "285a3c1f9562aed2b0d3b265967180b7cb88e62a35d99671df6f97362f30ea61",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/285a3c1f9562aed2b0d3b265967180b7cb88e62a35d99671df6f97362f30ea61.bin"
+    },
+    {
+      "path": "texdb/newthings03/newthings03.dxt.tmb",
+      "bytes": 140032,
+      "sha256": "ed1f161f35ea0f39d51c38aefa810563fe14ced272500d3f6a3f63d5ecf5f4eb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/ed1f161f35ea0f39d51c38aefa810563fe14ced272500d3f6a3f63d5ecf5f4eb.bin"
+    },
+    {
+      "path": "texdb/newthings03/newthings03.dxt.toc",
+      "bytes": 4052,
+      "sha256": "40e537441a08c4b4a7932b32698cf8326c5dfd4309b9d61295937d99562379e1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/40e537441a08c4b4a7932b32698cf8326c5dfd4309b9d61295937d99562379e1.bin"
+    },
+    {
+      "path": "texdb/newthings03/newthings03.txt",
+      "bytes": 56734,
+      "sha256": "d4672a06ffe0e61499012d41c3c58ec7439acfa18d8187e18ea2b32adf58a737",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/d4672a06ffe0e61499012d41c3c58ec7439acfa18d8187e18ea2b32adf58a737.bin"
+    },
+    {
+      "path": "texdb/newthings04/newthings04.dxt.dat",
+      "bytes": 271979574,
+      "sha256": "f687001b438325ca0dfd0cc5e4dfa3840e258ccb18b4be588edd460bc1b1b2c3",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/f687001b438325ca0dfd0cc5e4dfa3840e258ccb18b4be588edd460bc1b1b2c3.bin"
+    },
+    {
+      "path": "texdb/newthings04/newthings04.dxt.tmb",
+      "bytes": 90368,
+      "sha256": "218a529b5505556c15c1bd58ac173413495530c668b17c3b9b7f18ec269b84e5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/218a529b5505556c15c1bd58ac173413495530c668b17c3b9b7f18ec269b84e5.bin"
+    },
+    {
+      "path": "texdb/newthings04/newthings04.dxt.toc",
+      "bytes": 2596,
+      "sha256": "0a1f85d89543b1e53d35a8b4aad39c66240bd608a160c4c9b8886412190992e4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/0a1f85d89543b1e53d35a8b4aad39c66240bd608a160c4c9b8886412190992e4.bin"
+    },
+    {
+      "path": "texdb/newthings04/newthings04.dxt.txt",
+      "bytes": 35545,
+      "sha256": "e49af91d9a0e76aa0f9a13dee8adf421ccb35e674f5b9237b7e1896f287564b8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/e49af91d9a0e76aa0f9a13dee8adf421ccb35e674f5b9237b7e1896f287564b8.bin"
+    },
+    {
+      "path": "texdb/newthings04/newthings04.txt",
+      "bytes": 35545,
+      "sha256": "e49af91d9a0e76aa0f9a13dee8adf421ccb35e674f5b9237b7e1896f287564b8",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/e49af91d9a0e76aa0f9a13dee8adf421ccb35e674f5b9237b7e1896f287564b8.bin"
+    },
+    {
+      "path": "texdb/newthings05/newthings05.dxt.dat",
+      "bytes": 152340972,
+      "sha256": "fa3eed111edb2704c3d670c8bfff0ac4c38f5af178db000a9020d6978ff3d8fa",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/fa3eed111edb2704c3d670c8bfff0ac4c38f5af178db000a9020d6978ff3d8fa.bin"
+    },
+    {
+      "path": "texdb/newthings05/newthings05.dxt.tmb",
+      "bytes": 56592,
+      "sha256": "1b86a04bfa85426829b657bb1f509eb1da6ca92a0cff40a63986cbe47bbb553a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/1b86a04bfa85426829b657bb1f509eb1da6ca92a0cff40a63986cbe47bbb553a.bin"
+    },
+    {
+      "path": "texdb/newthings05/newthings05.dxt.toc",
+      "bytes": 1576,
+      "sha256": "217976bf929580589f9467fef7183b991b31294fc4584c99d95dca86c87be771",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/217976bf929580589f9467fef7183b991b31294fc4584c99d95dca86c87be771.bin"
+    },
+    {
+      "path": "texdb/newthings05/newthings05.txt",
+      "bytes": 22802,
+      "sha256": "a57c2af1c0e650ecbff6d65440ac77b4055e68387f7a58908bef0883b845f708",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/a57c2af1c0e650ecbff6d65440ac77b4055e68387f7a58908bef0883b845f708.bin"
+    },
+    {
+      "path": "texdb/player.img",
+      "bytes": 16412672,
+      "sha256": "8283bef75a863a98198ad6b1e78b082efcbc46d4b5015a69e35c78f4500149df",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/8283bef75a863a98198ad6b1e78b082efcbc46d4b5015a69e35c78f4500149df.bin"
+    },
+    {
+      "path": "texdb/player/player.dxt.dat",
+      "bytes": 6569414,
+      "sha256": "0ef2166249ad92f3329d2818b83bb091a083614a86dfc7b51cfe786f4db521ca",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0ef2166249ad92f3329d2818b83bb091a083614a86dfc7b51cfe786f4db521ca.bin"
+    },
+    {
+      "path": "texdb/player/player.dxt.tmb",
+      "bytes": 6940,
+      "sha256": "c5a2a096fd89c2117bbd78b23950893194d24a747228e57508249d32ee5a8a05",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/c5a2a096fd89c2117bbd78b23950893194d24a747228e57508249d32ee5a8a05.bin"
+    },
+    {
+      "path": "texdb/player/player.dxt.toc",
+      "bytes": 1580,
+      "sha256": "0806e857b570f655a57507e90a862afd7f850536128d11d2a94204306ca41192",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0806e857b570f655a57507e90a862afd7f850536128d11d2a94204306ca41192.bin"
+    },
+    {
+      "path": "texdb/player/player.txt",
+      "bytes": 27810,
+      "sha256": "a2f4d3c7803614505c7c5d964afeda5f5e0dc180e4d62fb87a332e1238dee9af",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/a2f4d3c7803614505c7c5d964afeda5f5e0dc180e4d62fb87a332e1238dee9af.bin"
+    },
+    {
+      "path": "texdb/playerhi/playerhi.dxt.dat",
+      "bytes": 27658902,
+      "sha256": "16f48f03270d91d65d2f84b1b321fee066ddad49fdba2ae433ed48e868fa16cc",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/16f48f03270d91d65d2f84b1b321fee066ddad49fdba2ae433ed48e868fa16cc.bin"
+    },
+    {
+      "path": "texdb/playerhi/playerhi.dxt.tmb",
+      "bytes": 6940,
+      "sha256": "e6252f7677f9eca3bcdbc4f6fd02c927c3e337f73e9d90391f51fe53ecd2bb79",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/e6252f7677f9eca3bcdbc4f6fd02c927c3e337f73e9d90391f51fe53ecd2bb79.bin"
+    },
+    {
+      "path": "texdb/playerhi/playerhi.dxt.toc",
+      "bytes": 1580,
+      "sha256": "c68c8eea457dee5f78b257db0bf867fbde5ef85d6d72216c2c8e8082c7e82979",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c68c8eea457dee5f78b257db0bf867fbde5ef85d6d72216c2c8e8082c7e82979.bin"
+    },
+    {
+      "path": "texdb/playerhi/playerhi.txt",
+      "bytes": 28087,
+      "sha256": "38efc90958932e4bc475fbea796152ee15a280e3f2aea88ab6bc360166f7e864",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/38efc90958932e4bc475fbea796152ee15a280e3f2aea88ab6bc360166f7e864.bin"
+    },
+    {
+      "path": "texdb/samp.img",
+      "bytes": 36902912,
+      "sha256": "c9862e8d7fae6961103d09cfc3771bc8c56e7f2bcbf18e86acaa90a1aca5ecf7",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/c9862e8d7fae6961103d09cfc3771bc8c56e7f2bcbf18e86acaa90a1aca5ecf7.bin"
+    },
+    {
+      "path": "texdb/samp/samp.dxt.dat",
+      "bytes": 22506700,
+      "sha256": "128d0f4959b57b88a5bcd29d14e1a0804dbea647acf89f97434fd36f2f478920",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/128d0f4959b57b88a5bcd29d14e1a0804dbea647acf89f97434fd36f2f478920.bin"
+    },
+    {
+      "path": "texdb/samp/samp.dxt.tmb",
+      "bytes": 23072,
+      "sha256": "fb056e546b07ad2efbe5c5607c81d1207cff0f12038a7b3ba64fe8b8dd57e80e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/fb056e546b07ad2efbe5c5607c81d1207cff0f12038a7b3ba64fe8b8dd57e80e.bin"
+    },
+    {
+      "path": "texdb/samp/samp.dxt.toc",
+      "bytes": 6184,
+      "sha256": "591f691cd9edc15d04b8d9b09cdce254ce5f627f6705c641282adb65b479a9d0",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/591f691cd9edc15d04b8d9b09cdce254ce5f627f6705c641282adb65b479a9d0.bin"
+    },
+    {
+      "path": "texdb/samp/samp.txt",
+      "bytes": 91334,
+      "sha256": "19155907ba2beb01902b920472385618ac84adb4a4e3428bf36777cd68242a21",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/19155907ba2beb01902b920472385618ac84adb4a4e3428bf36777cd68242a21.bin"
+    },
+    {
+      "path": "texdb/txd/txd.dxt.dat",
+      "bytes": 26317800,
+      "sha256": "3aa44765fec4a64083df6ff53c449f4dec8022287fb3829d513eae7ed71af2bf",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/3aa44765fec4a64083df6ff53c449f4dec8022287fb3829d513eae7ed71af2bf.bin"
+    },
+    {
+      "path": "texdb/txd/txd.dxt.tmb",
+      "bytes": 74516,
+      "sha256": "957c5d0c3a8a5c163710f00d2cd4d016c900fed51cc9259a94ac8c910ffcfe78",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/957c5d0c3a8a5c163710f00d2cd4d016c900fed51cc9259a94ac8c910ffcfe78.bin"
+    },
+    {
+      "path": "texdb/txd/txd.dxt.toc",
+      "bytes": 3728,
+      "sha256": "833f656590c588d63e8afc49b934eeeb18206323e47121eec081cdcf0e823bc4",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/833f656590c588d63e8afc49b934eeeb18206323e47121eec081cdcf0e823bc4.bin"
+    },
+    {
+      "path": "texdb/txd/txd.txt",
+      "bytes": 66845,
+      "sha256": "011e35d53d3403d6c689b8924762fddb2799006d5415b9117e9ac5b5a9f8ae76",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/011e35d53d3403d6c689b8924762fddb2799006d5415b9117e9ac5b5a9f8ae76.bin"
+    },
+    {
+      "path": "update.json",
+      "bytes": 35,
+      "sha256": "2751e22d39f70197248a66e14e76ecbec30d658aeff99c6a2457107612cd031d",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2751e22d39f70197248a66e14e76ecbec30d658aeff99c6a2457107612cd031d.bin"
+    }
+  ],
+  "runtime": "dx-32bit-experimental",
+  "minLauncherVersion": 5
+}
