@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.3.2",
+  "release": "0.4.3.3",
   "platform": "windows",
   "runtimeCompatible": true,
   "runtime": "existing-client-with-Newthings-vehicle-replacements",
@@ -383,12 +383,6 @@
       "bytes": 435,
       "sha256": "0468d9e4741efb9a493f0cb2abe8f78ecf03d10f9784b3b658be760e74f63599",
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/0468d9e4741efb9a493f0cb2abe8f78ecf03d10f9784b3b658be760e74f63599.bin"
-    },
-    {
-      "path": "d3d9.dll",
-      "bytes": 771584,
-      "sha256": "a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1.bin"
     },
     {
       "path": "data/AudioEvents.txt",
@@ -7267,6 +7261,6 @@
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/5c100206dc0e8d5e77299fc8a16c04a1e4c62afe4b3be8c917247e7174e731d5.bin"
     }
   ],
-  "totalBytes": 6490876951,
-  "minLauncherVersion": "0.4.3.2"
+  "totalBytes": 6490105367,
+  "minLauncherVersion": "0.4.3.3"
 }
