@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.3-community-1",
+  "release": "0.4.3.2",
   "platform": "windows",
-  "runtimeCompatible": false,
+  "runtimeCompatible": true,
   "runtime": "existing-client-with-Newthings-vehicle-replacements",
   "files": [
     {
@@ -383,6 +383,12 @@
       "bytes": 435,
       "sha256": "0468d9e4741efb9a493f0cb2abe8f78ecf03d10f9784b3b658be760e74f63599",
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/0468d9e4741efb9a493f0cb2abe8f78ecf03d10f9784b3b658be760e74f63599.bin"
+    },
+    {
+      "path": "d3d9.dll",
+      "bytes": 771584,
+      "sha256": "a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1.bin"
     },
     {
       "path": "data/AudioEvents.txt",
@@ -2047,12 +2053,6 @@
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/2ee3ff39b2cdf57603c4a55049dd5109d19fbfd5b8b89978ead2003386485ad5.bin"
     },
     {
-      "path": "enbseries.asi",
-      "bytes": 771584,
-      "sha256": "a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a166b48a3eec747a38ac512b23003cb244134aacb9c18ace67baaca7188c64b1.bin"
-    },
-    {
       "path": "enbseries.ini",
       "bytes": 1928,
       "sha256": "6127587d9ce28b7a4e1f3f3be520a27e55476d7d70eff5ecb573c6aaa5caf76b",
@@ -2798,9 +2798,9 @@
     },
     {
       "path": "models/txd/LD_SPAC.txd",
-      "bytes": 186312,
-      "sha256": "89f5837f9bc52f6a616b56e41b057a4870d0398491394c793aa817692215fce1",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/89f5837f9bc52f6a616b56e41b057a4870d0398491394c793aa817692215fce1.bin"
+      "bytes": 41137736,
+      "sha256": "1c17769b03e32bae5fa668de83fb01ddeaf850157c5bfda7b45c13bcf75cf089",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/1c17769b03e32bae5fa668de83fb01ddeaf850157c5bfda7b45c13bcf75cf089.bin"
     },
     {
       "path": "models/txd/LD_TATT.txd",
@@ -2975,6 +2975,138 @@
       "bytes": 700928,
       "sha256": "9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8",
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/9354beb050850fb4c5188e45241d0aa661b6994b9353064ff1ade90d7aa5fcd8.bin"
+    },
+    {
+      "path": "modloader/.data/config.ini",
+      "bytes": 977,
+      "sha256": "8d0ad9d6ba4362d270b0d8604d9865cee8ffa185415499327ddd075567a33ebf",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/8d0ad9d6ba4362d270b0d8604d9865cee8ffa185415499327ddd075567a33ebf.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.asi.dll",
+      "bytes": 285184,
+      "sha256": "08bfaadf62cb8d5e93c9d472f219be3d5fe9e68c8c772cb2aa04942027c802f1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/08bfaadf62cb8d5e93c9d472f219be3d5fe9e68c8c772cb2aa04942027c802f1.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.asi.md",
+      "bytes": 508,
+      "sha256": "91d62f0c7afb4d3088e05b6d609086221ef81cad2249d5fe0ff219e4157ee8b2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/91d62f0c7afb4d3088e05b6d609086221ef81cad2249d5fe0ff219e4157ee8b2.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.bank.dll",
+      "bytes": 293888,
+      "sha256": "abddfe1f653ed406107eb314072a117173ab821f9f233545e1ba11748c2fd315",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/abddfe1f653ed406107eb314072a117173ab821f9f233545e1ba11748c2fd315.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.bank.md",
+      "bytes": 927,
+      "sha256": "60084b7e4ef6e5dd5372f8df3952f0ea02d6c8ff375164b6acbd35c4dd676371",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/60084b7e4ef6e5dd5372f8df3952f0ea02d6c8ff375164b6acbd35c4dd676371.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.data.dll",
+      "bytes": 3527680,
+      "sha256": "5eabc8cc52967293f061175d40a7537babae8a7e753ccbd6b15ba11ec646fe88",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/5eabc8cc52967293f061175d40a7537babae8a7e753ccbd6b15ba11ec646fe88.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.data.md",
+      "bytes": 3665,
+      "sha256": "9294181ca7743f28c078ca13eb259338b2ef74661002a24c92f7a11b70d70f25",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/9294181ca7743f28c078ca13eb259338b2ef74661002a24c92f7a11b70d70f25.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.fx.dll",
+      "bytes": 399872,
+      "sha256": "3f34e574296d230d5da38a10f3f8983754d4d5ba2ea1606548a4b84675a76385",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/3f34e574296d230d5da38a10f3f8983754d4d5ba2ea1606548a4b84675a76385.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.fx.md",
+      "bytes": 392,
+      "sha256": "500688ac03414bdd17e8d084405b059953dff8ba0e71e8d46009bfb798484f0c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/500688ac03414bdd17e8d084405b059953dff8ba0e71e8d46009bfb798484f0c.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.movies.dll",
+      "bytes": 174080,
+      "sha256": "6b146fba86c8210637e66259b3e3a8a1de59df724239c24ef366b24804403ba9",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/6b146fba86c8210637e66259b3e3a8a1de59df724239c24ef366b24804403ba9.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.movies.md",
+      "bytes": 400,
+      "sha256": "94875bccd5db51562c8bba69e8df96a4769285b7cd84b3cd32ad0a8073b9ed41",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/94875bccd5db51562c8bba69e8df96a4769285b7cd84b3cd32ad0a8073b9ed41.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.scm.dll",
+      "bytes": 174080,
+      "sha256": "4e1004c96af35c089a2e6df40ef903d7d28c813ba90535876f41a525d95d6cd1",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4e1004c96af35c089a2e6df40ef903d7d28c813ba90535876f41a525d95d6cd1.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.scm.md",
+      "bytes": 384,
+      "sha256": "294939ab3ec2083d6928f853286c10ce62ac69eb9e212023f4e8cdd43e869798",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/294939ab3ec2083d6928f853286c10ce62ac69eb9e212023f4e8cdd43e869798.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.sprites.dll",
+      "bytes": 482304,
+      "sha256": "4bc1043b00b086f1a785fd780e755cf48ca5d10bce89af342f1d3202cbd5f9b5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/4bc1043b00b086f1a785fd780e755cf48ca5d10bce89af342f1d3202cbd5f9b5.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.sprites.md",
+      "bytes": 568,
+      "sha256": "0beda69fa492540902619bdd1f41b6878c61448c84755e13ec9fb2dbd64fbfed",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/0beda69fa492540902619bdd1f41b6878c61448c84755e13ec9fb2dbd64fbfed.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.stream.dll",
+      "bytes": 584192,
+      "sha256": "49fa872faa2cee77835ecce13a84087bcdba7354a4ffc60f2a560b586adb0030",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/49fa872faa2cee77835ecce13a84087bcdba7354a4ffc60f2a560b586adb0030.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.stream.md",
+      "bytes": 1449,
+      "sha256": "69691f4b501abd2b7d815d83e04019d01906c5afd935055afdfb00d17f7f850e",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/69691f4b501abd2b7d815d83e04019d01906c5afd935055afdfb00d17f7f850e.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.text.dll",
+      "bytes": 206336,
+      "sha256": "9dee51b660e5fa8b47910e0b69ef597cb7a96ba10b1a2d33c643760502f9f866",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/9dee51b660e5fa8b47910e0b69ef597cb7a96ba10b1a2d33c643760502f9f866.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.text.md",
+      "bytes": 426,
+      "sha256": "2df452bc48dfedec0f8220baa2fbfc04f5ab81b19878584c6cdfcd64639feee5",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2df452bc48dfedec0f8220baa2fbfc04f5ab81b19878584c6cdfcd64639feee5.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.tracks.dll",
+      "bytes": 212992,
+      "sha256": "a220569ec2ab4ce9aebbb4203e3cd9a17691ab27d58bbf493b3fdd7294376acd",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/a220569ec2ab4ce9aebbb4203e3cd9a17691ab27d58bbf493b3fdd7294376acd.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/gta3/std.tracks.md",
+      "bytes": 469,
+      "sha256": "e4881ffdc037d2697fd18f4dc7979046b96974e885b4b7305d37a6c491824a9c",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/e4881ffdc037d2697fd18f4dc7979046b96974e885b4b7305d37a6c491824a9c.bin"
+    },
+    {
+      "path": "modloader/.data/plugins/plugins.ini",
+      "bytes": 592,
+      "sha256": "2d534da354961d3c285e8cf11545476efd276ccb1d8b314f5f2659185f9c9bdb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/2d534da354961d3c285e8cf11545476efd276ccb1d8b314f5f2659185f9c9bdb.bin"
     },
     {
       "path": "modloader/DEEP_Nature/ATTRIBUTION.txt",
@@ -7135,5 +7267,6 @@
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/5c100206dc0e8d5e77299fc8a16c04a1e4c62afe4b3be8c917247e7174e731d5.bin"
     }
   ],
-  "minLauncherVersion": "0.4.3.1"
+  "totalBytes": 6490876951,
+  "minLauncherVersion": "0.4.3.2"
 }
