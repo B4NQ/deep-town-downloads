@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.3.3",
+  "release": "0.4.4.0",
   "platform": "android",
   "runtimeCompatible": false,
   "files": [
@@ -2047,27 +2047,27 @@
     },
     {
       "path": "texdb/txd/txd.dxt.dat",
-      "bytes": 46784440,
-      "sha256": "24c68a199585ead2ed07e10ec49d02e3eb02c28630210a6a2081a8b755efc0b5",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/24c68a199585ead2ed07e10ec49d02e3eb02c28630210a6a2081a8b755efc0b5.bin"
+      "bytes": 40558536,
+      "sha256": "f3592caa6a1940797835b3b6f8c875635cd54f4ba945a29161b92f91c4075e69",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/f3592caa6a1940797835b3b6f8c875635cd54f4ba945a29161b92f91c4075e69.bin"
     },
     {
       "path": "texdb/txd/txd.dxt.tmb",
-      "bytes": 101732,
-      "sha256": "a8fb9e8abf2f8e3728222e0e9aee1558f7782afe6761aaf94109026e86586fde",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/a8fb9e8abf2f8e3728222e0e9aee1558f7782afe6761aaf94109026e86586fde.bin"
+      "bytes": 101876,
+      "sha256": "ad5b5e85781e28b84501801f33ee8c0c39a770ec46d6f703a393f3c008c2e0a2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/ad5b5e85781e28b84501801f33ee8c0c39a770ec46d6f703a393f3c008c2e0a2.bin"
     },
     {
       "path": "texdb/txd/txd.dxt.toc",
-      "bytes": 4484,
-      "sha256": "39f4eaee0c4e484a6022063c243507e13e936290de008b3ad35048aa42afea5c",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/39f4eaee0c4e484a6022063c243507e13e936290de008b3ad35048aa42afea5c.bin"
+      "bytes": 4488,
+      "sha256": "8f2d171652c91919803ee08a682bda0021e2a33bcb91aafb2389aa9890fd8064",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/8f2d171652c91919803ee08a682bda0021e2a33bcb91aafb2389aa9890fd8064.bin"
     },
     {
       "path": "texdb/txd/txd.txt",
-      "bytes": 75354,
-      "sha256": "cde4318780f611cc9041473ca9abfb114dc169f64c8afbd760a9ac003338a9ac",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/cde4318780f611cc9041473ca9abfb114dc169f64c8afbd760a9ac003338a9ac.bin"
+      "bytes": 75399,
+      "sha256": "9cb9c0a445ac8b57c20dcc34dfe509d008831ee90887c72b03abe1f00df7f7fd",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/9cb9c0a445ac8b57c20dcc34dfe509d008831ee90887c72b03abe1f00df7f7fd.bin"
     },
     {
       "path": "update.json",
@@ -2078,5 +2078,8 @@
   ],
   "runtime": "dx-32bit-experimental",
   "totalBytes": 3638521028,
-  "minLauncherVersion": 5
+  "uiTheme": "SKY BLUE PREMIUM ROLEPLAY",
+  "uiLocalBuild": "20261011",
+  "uiDeviceRenderVerified": false,
+  "minLauncherVersion": 6
 }
