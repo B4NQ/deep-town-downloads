@@ -1,0 +1,14 @@
+{
+  "project": "DEEP TOWN",
+  "contentBaseUrl": "https://b4nq.github.io/deep-town-downloads/",
+  "manifest": "windows-manifest.json",
+  "platform": "windows",
+  "gameHost": "127.0.0.1",
+  "gamePort": 27923,
+  "mode": "production",
+  "installedGame": "data",
+  "localManifest": "../manifest.json",
+  "launcherManifest": "launcher-update.json",
+  "automaticUpdates": true,
+  "githubReleaseRepo": "B4NQ/deep-town-downloads"
+}
