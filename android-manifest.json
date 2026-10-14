@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.4.0",
+  "release": "0.4.5.0",
   "platform": "android",
   "runtimeCompatible": false,
   "files": [
@@ -10,6 +10,12 @@
       "bytes": 1427,
       "sha256": "f47f95963c3cb10da617b54b1f53aa01a4110a1606de5bb8d6da06eda3ae1156",
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/f47f95963c3cb10da617b54b1f53aa01a4110a1606de5bb8d6da06eda3ae1156.bin"
+    },
+    {
+      "path": "DEEP-NEON-ATTRIBUTION.txt",
+      "bytes": 1034,
+      "sha256": "b47a6f83ce06f4c086e70ba5b23c96353286036453441ae727cc9586cef989b2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b47a6f83ce06f4c086e70ba5b23c96353286036453441ae727cc9586cef989b2.bin"
     },
     {
       "path": "GTASAMP10.b",
@@ -1705,9 +1711,9 @@
     },
     {
       "path": "texdb/gta3.img",
-      "bytes": 283867136,
-      "sha256": "a12670593d157de14a78693f104b2acba02773b067b743a915fb738353b0822e",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a12670593d157de14a78693f104b2acba02773b067b743a915fb738353b0822e.bin"
+      "bytes": 283875328,
+      "sha256": "e3304799c850a14bf87c989eb362f957d0aa5f9f503cb132680a36c30a6a438a",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/e3304799c850a14bf87c989eb362f957d0aa5f9f503cb132680a36c30a6a438a.bin"
     },
     {
       "path": "texdb/gta3/gta3.dxt.dat",
@@ -2081,5 +2087,5 @@
   "uiTheme": "SKY BLUE PREMIUM ROLEPLAY",
   "uiLocalBuild": "20261011",
   "uiDeviceRenderVerified": false,
-  "minLauncherVersion": 6
+  "minLauncherVersion": 7
 }

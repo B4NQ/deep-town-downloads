@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.4.0",
+  "release": "0.4.5.0",
   "platform": "windows",
   "runtimeCompatible": true,
   "runtime": "existing-client-with-Newthings-vehicle-replacements",
@@ -10957,6 +10957,24 @@
       "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/d05d9ee411d456f420e0cc918e6e8f7052a6e6f62fe0b7ba2b393197d8dfe688.bin"
     },
     {
+      "path": "modloader/DEEP_Neon/ATTRIBUTION.txt",
+      "bytes": 1034,
+      "sha256": "b47a6f83ce06f4c086e70ba5b23c96353286036453441ae727cc9586cef989b2",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/b47a6f83ce06f4c086e70ba5b23c96353286036453441ae727cc9586cef989b2.bin"
+    },
+    {
+      "path": "modloader/DEEP_Neon/bollardlight.dff",
+      "bytes": 2045,
+      "sha256": "a03e342e7f90ea04e9f8f3189acf141643bbefc3f999a1548d69f485452abd67",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a03e342e7f90ea04e9f8f3189acf141643bbefc3f999a1548d69f485452abd67.bin"
+    },
+    {
+      "path": "modloader/DEEP_Neon/streetlamp2.dff",
+      "bytes": 4667,
+      "sha256": "ba8f9f6200268930031af751057502dbe12608d74d7f9d2147aac34ca5d32773",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/ba8f9f6200268930031af751057502dbe12608d74d7f9d2147aac34ca5d32773.bin"
+    },
+    {
       "path": "modloader/DEEP_Skins/hfyst.dff",
       "bytes": 2144978,
       "sha256": "a9a323a626437b580de2fbb8a96c3b4e5a364e4c2f18d2f9e75a5f86780bb1f4",
@@ -14648,9 +14666,9 @@
     },
     {
       "path": "modloader/modloader.ini",
-      "bytes": 1187,
-      "sha256": "a1284a259f34d64543f806a474a404aeeafa5c6987fc81d398926109784a712f",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/a1284a259f34d64543f806a474a404aeeafa5c6987fc81d398926109784a712f.bin"
+      "bytes": 1201,
+      "sha256": "3caa8df58cc1e2353964e02d8bc8615168e223189cf39e849d968f1c29c3c9fb",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/3caa8df58cc1e2353964e02d8bc8615168e223189cf39e849d968f1c29c3c9fb.bin"
     },
     {
       "path": "moonloader/lib/MoonAdditions.dll",
@@ -15014,7 +15032,7 @@
     }
   ],
   "totalBytes": 6675907796,
-  "minLauncherVersion": "0.4.4.0",
+  "minLauncherVersion": "0.4.5.0",
   "uiTheme": "FIVEM BLUE CEF / user supplied HTML",
   "uiLocalBuild": "20261012-fivem-reference",
   "uiDeviceRenderVerified": true,
