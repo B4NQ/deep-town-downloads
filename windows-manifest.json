@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.6.0",
+  "release": "0.4.7.0",
   "platform": "windows",
   "runtimeCompatible": true,
   "runtime": "existing-client-with-Newthings-vehicle-replacements",
@@ -362,9 +362,9 @@
     },
     {
       "path": "cef/assets/deep-town/app.js",
-      "bytes": 19575,
-      "sha256": "6e133157dc2c763b27602521e8a2b50fd5bc781c51f2ed156ad9ecc9ae2caf78",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-2/6e133157dc2c763b27602521e8a2b50fd5bc781c51f2ed156ad9ecc9ae2caf78.bin"
+      "bytes": 20628,
+      "sha256": "eda1d730c46f6f04d463291f87de512059ede9e8920b9aa672b1661a2d9aa616",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/eda1d730c46f6f04d463291f87de512059ede9e8920b9aa672b1661a2d9aa616.bin"
     },
     {
       "path": "cef/assets/deep-town/assets/KANIT-LICENSE.txt",
@@ -7640,9 +7640,9 @@
     },
     {
       "path": "cef/assets/deep-town/core.js",
-      "bytes": 14670,
-      "sha256": "18316533f96be5a26a083e87790da3ddec984c99dfa80d35a0d87084461d047f",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-0/18316533f96be5a26a083e87790da3ddec984c99dfa80d35a0d87084461d047f.bin"
+      "bytes": 14787,
+      "sha256": "a699ed4a720bf881bf2fa19263f79b591cf8a4227b96300d585533d40cad21df",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/a699ed4a720bf881bf2fa19263f79b591cf8a4227b96300d585533d40cad21df.bin"
     },
     {
       "path": "cef/assets/deep-town/index.html",
@@ -7658,9 +7658,9 @@
     },
     {
       "path": "cef/assets/deep-town/theme.css",
-      "bytes": 23171,
-      "sha256": "f7d8dc4d551480cb650ceaff6322f2ef80a5560ff6bccd931239efd6538dee9b",
-      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/f7d8dc4d551480cb650ceaff6322f2ef80a5560ff6bccd931239efd6538dee9b.bin"
+      "bytes": 25520,
+      "sha256": "9d2459623531d0364fb017afec5915c50988f65f32a2d1c7dd1c5e40eb0f5bae",
+      "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-content-1/9d2459623531d0364fb017afec5915c50988f65f32a2d1c7dd1c5e40eb0f5bae.bin"
     },
     {
       "path": "cef/cef.pak",
@@ -15032,7 +15032,7 @@
     }
   ],
   "totalBytes": 6675907796,
-  "minLauncherVersion": "0.4.6.0",
+  "minLauncherVersion": "0.4.7.0",
   "uiTheme": "FIVEM BLUE CEF / user supplied HTML",
   "uiLocalBuild": "20261012-fivem-reference",
   "uiDeviceRenderVerified": true,
