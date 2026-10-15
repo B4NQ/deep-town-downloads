@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "deep-town-0.4.5.0-f5a759012a1d-5d6d0ef5",
+  "release": "deep-town-0.4.6.0-dc7a5857fa90-86f0cd01",
   "windows": {
-    "version": "0.4.5.0",
+    "version": "0.4.6.0",
     "path": "DEEP-TOWN-Launcher.exe",
-    "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-0.4.5.0-f5a759012a1d-5d6d0ef5/DEEP-TOWN-Launcher.exe",
-    "bytes": 3404288,
-    "sha256": "f5a759012a1da2df43b79a28c0744012689c34574fe44b0cd9deea32233e0628"
+    "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-0.4.6.0-dc7a5857fa90-86f0cd01/DEEP-TOWN-Launcher.exe",
+    "bytes": 3404800,
+    "sha256": "dc7a5857fa9072101cbe82fe9826fef5f1946d58c69fe7c300e5bccc260c4e99"
   },
   "android": {
-    "versionCode": 7,
+    "versionCode": 8,
     "versionName": "0.4.4",
     "package": "com.deeptown.launcher",
     "path": "DEEP-TOWN-Game-dev.apk",
-    "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-0.4.5.0-f5a759012a1d-5d6d0ef5/DEEP-TOWN-Game-dev.apk",
-    "bytes": 44507692,
-    "sha256": "5d6d0ef5d962af06de3d3c11757816a60c0843e5523e2dbae1910544a028df4d"
+    "url": "https://github.com/B4NQ/deep-town-downloads/releases/download/deep-town-0.4.6.0-dc7a5857fa90-86f0cd01/DEEP-TOWN-Game-dev.apk",
+    "bytes": 44507700,
+    "sha256": "86f0cd01c7e7b71b1b5367b5a960691ff0f2b6ab97a72fa4903df562957d6569"
   }
 }

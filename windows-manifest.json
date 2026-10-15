@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.5.0",
+  "release": "0.4.6.0",
   "platform": "windows",
   "runtimeCompatible": true,
   "runtime": "existing-client-with-Newthings-vehicle-replacements",
@@ -15032,7 +15032,7 @@
     }
   ],
   "totalBytes": 6675907796,
-  "minLauncherVersion": "0.4.5.0",
+  "minLauncherVersion": "0.4.6.0",
   "uiTheme": "FIVEM BLUE CEF / user supplied HTML",
   "uiLocalBuild": "20261012-fivem-reference",
   "uiDeviceRenderVerified": true,

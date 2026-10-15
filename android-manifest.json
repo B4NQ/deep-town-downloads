@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "project": "DEEP TOWN",
-  "release": "0.4.5.0",
+  "release": "0.4.6.0",
   "platform": "android",
   "runtimeCompatible": false,
   "files": [
@@ -2087,5 +2087,5 @@
   "uiTheme": "SKY BLUE PREMIUM ROLEPLAY",
   "uiLocalBuild": "20261011",
   "uiDeviceRenderVerified": false,
-  "minLauncherVersion": 7
+  "minLauncherVersion": 8
 }
